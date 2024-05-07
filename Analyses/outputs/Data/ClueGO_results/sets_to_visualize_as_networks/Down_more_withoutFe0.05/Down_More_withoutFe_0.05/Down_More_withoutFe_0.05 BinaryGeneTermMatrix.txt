@@ -1,0 +1,19 @@
+NAME	Rv0073	Rv0175	Rv0176	Rv0178	Rv1129c	Rv1544	aceE	acn	ansP1	asd	ask	atsB	bfrB	ceoC	dapD	drrB	emrB	esxB	fbpB	fum	gabD2	gap	glcB	glgP	gltA2	gnd2	icd1	lipM	lipO	lpqZ	lprK	mce1B	mce1C	mce1D	mce1F	mmpL10	mmpL7	mycP1	nuoA	nuoB	nuoC	nuoD	nuoF	nuoG	nuoH	nuoI	nuoJ	nuoL	nuoM	nuoN	pgk	phoT	pitA	pknB	proV	proW	proX	prpC	prpD	pstC2	pstS3	rpe	sodC	thrC	tpi	yrbE1A
+generation of precursor metabolites and energy	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	1	1	0	0	1	0	0	1	0
+tricarboxylic acid cycle	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+transport	1	0	0	0	0	0	0	0	1	0	0	0	1	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	0	1	1	1	0	0	1	1	0	0	0	0	1
+ion transport	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	1	0	0	1	1	0	1	1	1	0	0	1	1	0	0	0	0	0
+phosphate ion transport	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0
+NADH dehydrogenase (ubiquinone) activity	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+threonine biosynthetic process	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+primary active transmembrane transporter activity	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+organic cation transport	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0
+energy derivation by oxidation of organic compounds	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	1	1	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+electron transport coupled proton transport	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+propionate metabolic process	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+diaminopimelate biosynthetic process	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+active transmembrane transporter activity	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+transmembrane transporter activity	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	0	0	1	1	0	0	1	0	0	0	0	0	0
+ATP synthesis coupled electron transport	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+biological process involved in interaction with host	0	1	1	1	1	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	1	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	1	1	1	1	0	0	1	1	0	1	0	0	0
+transmembrane transport	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	0	0	1	1	0	0	1	1	0	0	0	0	0

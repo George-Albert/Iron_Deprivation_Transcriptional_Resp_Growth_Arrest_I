@@ -1,0 +1,1 @@
+[1] "cor.test(datos$PC1,datos$culture_number)"

@@ -1,0 +1,957 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     x="0px"
+     y="0px"
+     width="400px"
+     height="400px"
+     viewBox="0 0 400 400"
+     >
+<title></title>
+<desc>Creator: FreeHEP Graphics2D Driver Producer: org.freehep.graphicsio.svg.SVGGraphics2D Revision Source:  Date: Wednesday, April 6, 2022 at 12:44:09 PM Central European Summer Time</desc>
+<g stroke-dashoffset="0" stroke-linejoin="miter" stroke-dasharray="none" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10">
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 0 0 L 400 0 L 400 400 L 0 400 L 0 0 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip1">
+  <path d="M 0 0 L 0 400 L 400 400 L 400 0 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g transform="matrix(1, 0, 0, 1, 146.990234375, 13.064453125)">
+<text font-weight="bold" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">% terms per group</text>
+</g> <!-- transform -->
+</g> <!-- clip1 -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 5 17.09375 L 395 17.09375 L 395 395 L 5 395 L 5 17.09375 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 5 17.09375 L 395 17.09375 L 395 395 L 5 395 L 5 17.09375 z"/>
+</g> <!-- drawing style -->
+<g fill="#808080" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 200 111.569375 C 205.65731922326674 111.569375 211.30320525241822 112.07751393978181 216.86960902833817 113.08766729317296 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#808080" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 216.86960902833817 113.08766729317296 C 222.43601280425813 114.0978206465641 227.9004354109822 115.60590546228687 233.19701494214502 117.59374500913421 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#808080" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 233.19701494214505 117.59374500913421 C 238.49359447330787 119.58158455598156 243.60092261888252 122.04114416081163 248.4574414811165 124.94277910247968 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#808080" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 248.4574414811165 124.94277910247968 C 253.31396034335046 127.84441404414774 257.9000402988533 131.17639616865347 262.1604059799692 134.89856557064383 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#808080" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 262.1604059799692 134.89856557064383 C 266.42077166108504 138.62073497263418 270.3382030433071 142.71804696976994 273.86548388487324 147.14111724489146 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#808080" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 273.86548388487324 147.14111724489146 C 277.39276472643945 151.56418752001298 280.51563806748277 156.2951384109113 283.196464360995 161.27694844120725 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#808080" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 283.1964643609949 161.27694844120725 C 285.87729065450714 166.25875847150314 288.10523423568185 171.4712916018912 289.85344201827536 176.85172191394088 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#808080" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 289.85344201827536 176.85172191394088 C 291.60164980086887 182.23215222599055 292.86305568231796 187.75873249217108 293.62245611743003 193.36485162871242 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#808080" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 293.62245611743003 193.36485162871242 C 295.14432646736884 204.59974971099643 294.6315840701872 216.0168462586555 292.1087518231583 227.07009653785767 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#808080" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 292.1087518231583 227.07009653785767 C 289.5859195761293 238.1233468170598 285.09419197327907 248.63226595683005 278.8483945784544 258.09424456514097 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#808080" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 278.8483945784544 258.09424456514097 C 272.60259718362977 267.5562231734519 264.7047155584045 275.81675972856533 255.53248117346217 282.4807780860591 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#808080" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 255.53248117346217 282.4807780860591 C 237.03820333009924 295.9176574640095 214.29925841978965 302.19320751070563 191.5311021930759 300.1440363609352 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#808080" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 191.5311021930759 300.1440363609352 C 156.9055469205821 297.02767998132083 126.78903092957019 275.1467503184972 113.12531486877032 243.1788974280836 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#808080" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 113.12531486877033 243.17889742808362 C 100.65004555126083 213.99155391656396 103.66521738947331 180.49025097732422 121.15160542154561 153.99950543485897 C 138.63799345361792 127.50875989239377 168.25833391575287 111.56937500000001 199.99999999999997 111.569375 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#336600" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 199.99999999999997 111.569375 C 205.6573192232667 111.569375 211.30320525241822 112.07751393978181 216.86960902833817 113.08766729317296 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#808080">
+  <path d="M 199.99999999999997 111.569375 C 205.6573192232667 111.569375 211.30320525241822 112.07751393978181 216.86960902833817 113.08766729317296 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#1cf83d" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 216.86960902833817 113.08766729317296 C 222.43601280425813 114.0978206465641 227.90043541098223 115.60590546228686 233.19701494214505 117.59374500913421 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#808080">
+  <path d="M 216.86960902833817 113.08766729317296 C 222.43601280425813 114.0978206465641 227.90043541098223 115.60590546228686 233.19701494214505 117.59374500913421 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#006666" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 233.19701494214505 117.59374500913421 C 238.49359447330787 119.58158455598156 243.60092261888252 122.04114416081164 248.4574414811165 124.94277910247968 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#808080">
+  <path d="M 233.19701494214505 117.59374500913421 C 238.49359447330787 119.58158455598156 243.60092261888252 122.04114416081164 248.4574414811165 124.94277910247968 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#02068d" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 248.4574414811165 124.94277910247968 C 253.31396034335046 127.84441404414773 257.9000402988533 131.17639616865347 262.1604059799692 134.89856557064383 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#808080">
+  <path d="M 248.4574414811165 124.94277910247968 C 253.31396034335046 127.84441404414773 257.9000402988533 131.17639616865347 262.1604059799692 134.89856557064383 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#c822aa" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 262.16040597996914 134.89856557064377 C 266.42077166108504 138.62073497263412 270.33820304330703 142.71804696976992 273.86548388487324 147.1411172448914 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#808080">
+  <path d="M 262.16040597996914 134.89856557064377 C 266.42077166108504 138.62073497263412 270.33820304330703 142.71804696976992 273.86548388487324 147.1411172448914 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#cb3600" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 273.86548388487324 147.1411172448914 C 277.3927647264394 151.56418752001292 280.5156380674827 156.29513841091125 283.1964643609949 161.27694844120717 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#808080">
+  <path d="M 273.86548388487324 147.1411172448914 C 277.3927647264394 151.56418752001292 280.5156380674827 156.29513841091125 283.1964643609949 161.27694844120717 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#ce51ee" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 283.1964643609949 161.27694844120717 C 285.8772906545071 166.25875847150309 288.10523423568185 171.47129160189115 289.85344201827536 176.8517219139408 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#808080">
+  <path d="M 283.1964643609949 161.27694844120717 C 285.8772906545071 166.25875847150309 288.10523423568185 171.47129160189115 289.85344201827536 176.8517219139408 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#9c0e2d" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 289.85344201827536 176.8517219139408 C 291.6016498008688 182.23215222599046 292.86305568231796 187.75873249217102 293.62245611743003 193.36485162871236 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#808080">
+  <path d="M 289.85344201827536 176.8517219139408 C 291.6016498008688 182.23215222599046 292.86305568231796 187.75873249217102 293.62245611743003 193.36485162871236 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#4d1a74" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 293.62245611743003 193.36485162871236 C 295.14432646736884 204.59974971099635 294.6315840701872 216.01684625865545 292.1087518231583 227.07009653785758 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#808080">
+  <path d="M 293.62245611743003 193.36485162871236 C 295.14432646736884 204.59974971099635 294.6315840701872 216.01684625865545 292.1087518231583 227.07009653785758 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#455d1c" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 292.1087518231583 227.07009653785758 C 289.5859195761293 238.1233468170597 285.09419197327907 248.63226595683003 278.8483945784544 258.0942445651409 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#808080">
+  <path d="M 292.1087518231583 227.07009653785758 C 289.5859195761293 238.1233468170597 285.09419197327907 248.63226595683003 278.8483945784544 258.0942445651409 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#7774fd" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 278.8483945784545 258.09424456514085 C 272.6025971836299 267.55622317345177 264.7047155584046 275.8167597285653 255.5324811734623 282.480778086059 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#808080">
+  <path d="M 278.8483945784545 258.09424456514085 C 272.6025971836299 267.55622317345177 264.7047155584046 275.8167597285653 255.5324811734623 282.480778086059 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#009900" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 255.5324811734623 282.480778086059 C 237.03820333009938 295.9176574640095 214.29925841978988 302.1932075107056 191.53110219307615 300.1440363609352 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#808080">
+  <path d="M 255.5324811734623 282.480778086059 C 237.03820333009938 295.9176574640095 214.29925841978988 302.1932075107056 191.53110219307615 300.1440363609352 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#990000" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 191.53110219307615 300.1440363609352 C 156.90554692058237 297.02767998132094 126.78903092957044 275.1467503184974 113.12531486877046 243.17889742808393 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#808080">
+  <path d="M 191.53110219307615 300.1440363609352 C 156.90554692058237 297.02767998132094 126.78903092957044 275.1467503184974 113.12531486877046 243.17889742808393 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g fill="#660066" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 113.12531486877046 243.17889742808393 C 100.65004555126085 213.9915539165643 103.66521738947323 180.4902509773246 121.15160542154541 153.9995054348593 C 138.6379934536176 127.50875989239401 168.25833391575253 111.56937500000012 199.99999999999963 111.569375 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#808080">
+  <path d="M 113.12531486877046 243.17889742808393 C 100.65004555126085 213.9915539165643 103.66521738947323 180.4902509773246 121.15160542154541 153.9995054348593 C 138.6379934536176 127.50875989239401 168.25833391575253 111.56937500000012 199.99999999999963 111.569375 L 200 206.046875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#000000">
+  <path d="M 91.60645294189453 151.2601776123047 C 100.55000305175781 151.2601776123047 117.00169372558594 151.2601776123047 129.03643798828125 159.20423889160156"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 41.57129669189453 113.52580261230469 L 93.60645294189453 113.52580261230469 L 93.60645294189453 192.9945526123047 L 41.57129669189453 192.9945526123047 L 41.57129669189453 113.52580261230469 z"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 39.57129669189453 111.52580261230469 L 91.60645294189453 111.52580261230469 L 91.60645294189453 190.9945526123047 L 39.57129669189453 190.9945526123047 L 39.57129669189453 111.52580261230469 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 39.57129669189453 111.52580261230469 L 91.60645294189453 111.52580261230469 L 91.60645294189453 190.9945526123047 L 39.57129669189453 190.9945526123047 L 39.57129669189453 111.52580261230469 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip2">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g transform="matrix(1, 0, 0, 1, 42.58203887939453, 125.59025573730469)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">chromos</text>
+</g> <!-- transform -->
+</g> <!-- clip2 -->
+<clipPath id="clip3">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g transform="matrix(1, 0, 0, 1, 43.57813262939453, 140.6840057373047)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">ome org</text>
+</g> <!-- transform -->
+</g> <!-- clip3 -->
+<clipPath id="clip4">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g transform="matrix(1, 0, 0, 1, 41.57129669189453, 155.7777557373047)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">anization</text>
+</g> <!-- transform -->
+</g> <!-- clip4 -->
+<clipPath id="clip5">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g transform="matrix(1, 0, 0, 1, 41.90528106689453, 170.8715057373047)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">&#x00a0;31.43% </text>
+</g> <!-- transform -->
+</g> <!-- clip5 -->
+<clipPath id="clip6">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g transform="matrix(1, 0, 0, 1, 60.91895294189453, 185.9652557373047)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">**</text>
+</g> <!-- transform -->
+</g> <!-- clip6 -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#000000">
+  <path d="M 92.8095474243164 286.50360107421875 C 100.55000305175781 286.50360107421875 141.5447540283203 286.50360107421875 150.02076721191406 274.83740234375"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 41.444313049316406 248.76922607421875 L 94.8095474243164 248.76922607421875 L 94.8095474243164 328.23797607421875 L 41.444313049316406 328.23797607421875 L 41.444313049316406 248.76922607421875 z"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 39.444313049316406 246.76922607421875 L 92.8095474243164 246.76922607421875 L 92.8095474243164 326.23797607421875 L 39.444313049316406 326.23797607421875 L 39.444313049316406 246.76922607421875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 39.444313049316406 246.76922607421875 L 92.8095474243164 246.76922607421875 L 92.8095474243164 326.23797607421875 L 39.444313049316406 326.23797607421875 L 39.444313049316406 246.76922607421875 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip7">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip7)">
+<g transform="matrix(1, 0, 0, 1, 45.452125549316406, 260.83367919921875)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">cellular </text>
+</g> <!-- transform -->
+</g> <!-- clip7 -->
+<clipPath id="clip8">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip8)">
+<g transform="matrix(1, 0, 0, 1, 41.444313049316406, 275.92742919921875)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">compone</text>
+</g> <!-- transform -->
+</g> <!-- clip8 -->
+<clipPath id="clip9">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip9)">
+<g transform="matrix(1, 0, 0, 1, 42.777320861816406, 291.02117919921875)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">nt organi</text>
+</g> <!-- transform -->
+</g> <!-- clip9 -->
+<clipPath id="clip10">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip10)">
+<g transform="matrix(1, 0, 0, 1, 41.775367736816406, 306.11492919921875)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">zation 17</text>
+</g> <!-- transform -->
+</g> <!-- clip10 -->
+<clipPath id="clip11">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip11)">
+<g transform="matrix(1, 0, 0, 1, 46.114234924316406, 321.20867919921875)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">.14% **</text>
+</g> <!-- transform -->
+</g> <!-- clip11 -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#000000">
+  <path d="M 304.7619934082031 109.70124816894531 C 299.45001220703125 106.99723052978516 208.9146270751953 106.99723052978516 207.62200927734375 121.35942840576172"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 306.7619934082031 49.32624816894531 L 360.7951965332031 49.32624816894531 L 360.7951965332031 174.0762481689453 L 306.7619934082031 174.0762481689453 L 306.7619934082031 49.32624816894531 z"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 304.7619934082031 47.32624816894531 L 358.7951965332031 47.32624816894531 L 358.7951965332031 172.0762481689453 L 304.7619934082031 172.0762481689453 L 304.7619934082031 47.32624816894531 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 304.7619934082031 47.32624816894531 L 358.7951965332031 47.32624816894531 L 358.7951965332031 172.0762481689453 L 304.7619934082031 172.0762481689453 L 304.7619934082031 47.32624816894531 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip12">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip12)">
+<g transform="matrix(1, 0, 0, 1, 306.7619934082031, 61.39070129394531)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">aspartate</text>
+</g> <!-- transform -->
+</g> <!-- clip12 -->
+<clipPath id="clip13">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip13)">
+<g transform="matrix(1, 0, 0, 1, 312.7766418457031, 76.48445129394531)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">&#x00a0;family </text>
+</g> <!-- transform -->
+</g> <!-- clip13 -->
+<clipPath id="clip14">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip14)">
+<g transform="matrix(1, 0, 0, 1, 313.7698059082031, 91.57820129394531)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">amino </text>
+</g> <!-- transform -->
+</g> <!-- clip14 -->
+<clipPath id="clip15">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip15)">
+<g transform="matrix(1, 0, 0, 1, 319.1047668457031, 106.67195129394531)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">acid </text>
+</g> <!-- transform -->
+</g> <!-- clip15 -->
+<clipPath id="clip16">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip16)">
+<g transform="matrix(1, 0, 0, 1, 309.0998840332031, 121.76570129394531)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">metaboli</text>
+</g> <!-- transform -->
+</g> <!-- clip16 -->
+<clipPath id="clip17">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip17)">
+<g transform="matrix(1, 0, 0, 1, 309.1028137207031, 136.8594512939453)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">c proces</text>
+</g> <!-- transform -->
+</g> <!-- clip17 -->
+<clipPath id="clip18">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip18)">
+<g transform="matrix(1, 0, 0, 1, 308.4319152832031, 151.9532012939453)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">s 2.86% </text>
+</g> <!-- transform -->
+</g> <!-- clip18 -->
+<clipPath id="clip19">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip19)">
+<g transform="matrix(1, 0, 0, 1, 327.1086730957031, 167.0469512939453)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">**</text>
+</g> <!-- transform -->
+</g> <!-- clip19 -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#000000">
+  <path d="M 305.6219177246094 150.5453338623047 C 299.45001220703125 110.18077087402344 226.45736694335938 110.18077087402344 222.6210479736328 124.08135223388672"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 307.6219177246094 105.26408386230469 L 360.9871520996094 105.26408386230469 L 360.9871520996094 199.8265838623047 L 307.6219177246094 199.8265838623047 L 307.6219177246094 105.26408386230469 z"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 305.6219177246094 103.26408386230469 L 358.9871520996094 103.26408386230469 L 358.9871520996094 197.8265838623047 L 305.6219177246094 197.8265838623047 L 305.6219177246094 103.26408386230469 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 305.6219177246094 103.26408386230469 L 358.9871520996094 103.26408386230469 L 358.9871520996094 197.8265838623047 L 305.6219177246094 197.8265838623047 L 305.6219177246094 103.26408386230469 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip20">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip20)">
+<g transform="matrix(1, 0, 0, 1, 308.2869567871094, 117.32853698730469)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">phenolic </text>
+</g> <!-- transform -->
+</g> <!-- clip20 -->
+<clipPath id="clip21">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip21)">
+<g transform="matrix(1, 0, 0, 1, 307.6219177246094, 132.4222869873047)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">phthiocer</text>
+</g> <!-- transform -->
+</g> <!-- clip21 -->
+<clipPath id="clip22">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip22)">
+<g transform="matrix(1, 0, 0, 1, 308.6238708496094, 147.5160369873047)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">ol biosyn</text>
+</g> <!-- transform -->
+</g> <!-- clip22 -->
+<clipPath id="clip23">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip23)">
+<g transform="matrix(1, 0, 0, 1, 307.6248474121094, 162.6097869873047)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">thetic pro</text>
+</g> <!-- transform -->
+</g> <!-- clip23 -->
+<clipPath id="clip24">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip24)">
+<g transform="matrix(1, 0, 0, 1, 309.9598083496094, 177.7035369873047)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">cess 2.8</text>
+</g> <!-- transform -->
+</g> <!-- clip24 -->
+<clipPath id="clip25">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip25)">
+<g transform="matrix(1, 0, 0, 1, 317.2957458496094, 192.7972869873047)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">6% **</text>
+</g> <!-- transform -->
+</g> <!-- clip25 -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#000000">
+  <path d="M 306.440185546875 176.29568481445312 C 299.45001220703125 116.44551849365234 243.1497344970703 116.44551849365234 236.8930206298828 129.43771362304688"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 308.440185546875 131.01443481445312 L 362.461669921875 131.01443481445312 L 362.461669921875 225.57693481445312 L 308.440185546875 225.57693481445312 L 308.440185546875 131.01443481445312 z"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 306.440185546875 129.01443481445312 L 360.461669921875 129.01443481445312 L 360.461669921875 223.57693481445312 L 306.440185546875 223.57693481445312 L 306.440185546875 129.01443481445312 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 306.440185546875 129.01443481445312 L 360.461669921875 129.01443481445312 L 360.461669921875 223.57693481445312 L 306.440185546875 223.57693481445312 L 306.440185546875 129.01443481445312 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip26">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip26)">
+<g transform="matrix(1, 0, 0, 1, 308.768310546875, 143.07888793945312)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">carbohyd</text>
+</g> <!-- transform -->
+</g> <!-- clip26 -->
+<clipPath id="clip27">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip27)">
+<g transform="matrix(1, 0, 0, 1, 308.440185546875, 158.17263793945312)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">rate deriv</text>
+</g> <!-- transform -->
+</g> <!-- clip27 -->
+<clipPath id="clip28">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip28)">
+<g transform="matrix(1, 0, 0, 1, 309.108154296875, 173.26638793945312)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">ative met</text>
+</g> <!-- transform -->
+</g> <!-- clip28 -->
+<clipPath id="clip29">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip29)">
+<g transform="matrix(1, 0, 0, 1, 310.772216796875, 188.36013793945312)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">abolic pr</text>
+</g> <!-- transform -->
+</g> <!-- clip29 -->
+<clipPath id="clip30">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip30)">
+<g transform="matrix(1, 0, 0, 1, 311.106201171875, 203.45388793945312)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">ocess 2.</text>
+</g> <!-- transform -->
+</g> <!-- clip30 -->
+<clipPath id="clip31">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip31)">
+<g transform="matrix(1, 0, 0, 1, 315.105224609375, 218.54763793945312)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">86% **</text>
+</g> <!-- transform -->
+</g> <!-- clip31 -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#000000">
+  <path d="M 307.1904602050781 179.4053955078125 C 299.45001220703125 125.59013366699219 258.4552307128906 125.59013366699219 249.97923278808594 137.25636291503906"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 309.1904602050781 156.7647705078125 L 363.2236633300781 156.7647705078125 L 363.2236633300781 206.0460205078125 L 309.1904602050781 206.0460205078125 L 309.1904602050781 156.7647705078125 z"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 307.1904602050781 154.7647705078125 L 361.2236633300781 154.7647705078125 L 361.2236633300781 204.0460205078125 L 307.1904602050781 204.0460205078125 L 307.1904602050781 154.7647705078125 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 307.1904602050781 154.7647705078125 L 361.2236633300781 154.7647705078125 L 361.2236633300781 204.0460205078125 L 307.1904602050781 204.0460205078125 L 307.1904602050781 154.7647705078125 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip32">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip32)">
+<g transform="matrix(1, 0, 0, 1, 312.8554992675781, 168.8292236328125)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">peptide </text>
+</g> <!-- transform -->
+</g> <!-- clip32 -->
+<clipPath id="clip33">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip33)">
+<g transform="matrix(1, 0, 0, 1, 310.5293273925781, 183.9229736328125)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">transport</text>
+</g> <!-- transform -->
+</g> <!-- clip33 -->
+<clipPath id="clip34">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip34)">
+<g transform="matrix(1, 0, 0, 1, 309.1904602050781, 199.0167236328125)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">&#x00a0;2.86% **</text>
+</g> <!-- transform -->
+</g> <!-- clip34 -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#000000">
+  <path d="M 307.8486328125 182.51510620117188 C 299.45001220703125 137.32069396972656 271.8819580078125 137.32069396972656 261.4590759277344 147.28599548339844"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 309.8486328125 137.23385620117188 L 361.1982421875 137.23385620117188 L 361.1982421875 231.79635620117188 L 309.8486328125 231.79635620117188 L 309.8486328125 137.23385620117188 z"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 307.8486328125 135.23385620117188 L 359.1982421875 135.23385620117188 L 359.1982421875 229.79635620117188 L 307.8486328125 229.79635620117188 L 307.8486328125 135.23385620117188 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 307.8486328125 135.23385620117188 L 359.1982421875 135.23385620117188 L 359.1982421875 229.79635620117188 L 307.8486328125 229.79635620117188 L 307.8486328125 135.23385620117188 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip35">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip35)">
+<g transform="matrix(1, 0, 0, 1, 309.8486328125, 149.29830932617188)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">carboxyli</text>
+</g> <!-- transform -->
+</g> <!-- clip35 -->
+<clipPath id="clip36">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip36)">
+<g transform="matrix(1, 0, 0, 1, 316.1826171875, 164.39205932617188)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">c acid </text>
+</g> <!-- transform -->
+</g> <!-- clip36 -->
+<clipPath id="clip37">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip37)">
+<g transform="matrix(1, 0, 0, 1, 310.8447265625, 179.48580932617188)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">metaboli</text>
+</g> <!-- transform -->
+</g> <!-- clip37 -->
+<clipPath id="clip38">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip38)">
+<g transform="matrix(1, 0, 0, 1, 310.84765625, 194.57955932617188)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">c proces</text>
+</g> <!-- transform -->
+</g> <!-- clip38 -->
+<clipPath id="clip39">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip39)">
+<g transform="matrix(1, 0, 0, 1, 310.1767578125, 209.67330932617188)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">s 2.86% </text>
+</g> <!-- transform -->
+</g> <!-- clip39 -->
+<clipPath id="clip40">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip40)">
+<g transform="matrix(1, 0, 0, 1, 328.853515625, 224.76705932617188)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">**</text>
+</g> <!-- transform -->
+</g> <!-- clip40 -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#000000">
+  <path d="M 308.3935546875 193.1717071533203 C 299.45001220703125 151.2601776123047 282.9983215332031 151.2601776123047 270.96356201171875 159.20423889160156"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 310.3935546875 162.9842071533203 L 361.0927734375 162.9842071533203 L 361.0927734375 227.3592071533203 L 310.3935546875 227.3592071533203 L 310.3935546875 162.9842071533203 z"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 308.3935546875 160.9842071533203 L 359.0927734375 160.9842071533203 L 359.0927734375 225.3592071533203 L 308.3935546875 225.3592071533203 L 308.3935546875 160.9842071533203 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 308.3935546875 160.9842071533203 L 359.0927734375 160.9842071533203 L 359.0927734375 225.3592071533203 L 308.3935546875 225.3592071533203 L 308.3935546875 160.9842071533203 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip41">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip41)">
+<g transform="matrix(1, 0, 0, 1, 323.0732421875, 175.0486602783203)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">cell </text>
+</g> <!-- transform -->
+</g> <!-- clip41 -->
+<clipPath id="clip42">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip42)">
+<g transform="matrix(1, 0, 0, 1, 318.40625, 190.1424102783203)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">cycle </text>
+</g> <!-- transform -->
+</g> <!-- clip42 -->
+<clipPath id="clip43">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip43)">
+<g transform="matrix(1, 0, 0, 1, 311.0673828125, 205.2361602783203)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">process </text>
+</g> <!-- transform -->
+</g> <!-- clip43 -->
+<clipPath id="clip44">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip44)">
+<g transform="matrix(1, 0, 0, 1, 310.3935546875, 220.3299102783203)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">2.86% **</text>
+</g> <!-- transform -->
+</g> <!-- clip44 -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#000000">
+  <path d="M 308.8077087402344 203.8282928466797 C 299.45001220703125 166.96054077148438 291.4470520019531 166.96054077148438 278.1872253417969 172.6280517578125"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 310.8077087402344 158.5470428466797 L 361.5069274902344 158.5470428466797 L 361.5069274902344 253.1095428466797 L 310.8077087402344 253.1095428466797 L 310.8077087402344 158.5470428466797 z"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 308.8077087402344 156.5470428466797 L 359.5069274902344 156.5470428466797 L 359.5069274902344 251.1095428466797 L 308.8077087402344 251.1095428466797 L 308.8077087402344 156.5470428466797 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 308.8077087402344 156.5470428466797 L 359.5069274902344 156.5470428466797 L 359.5069274902344 251.1095428466797 L 308.8077087402344 251.1095428466797 L 308.8077087402344 156.5470428466797 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip45">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip45)">
+<g transform="matrix(1, 0, 0, 1, 313.4825134277344, 170.6114959716797)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">cellular </text>
+</g> <!-- transform -->
+</g> <!-- clip45 -->
+<clipPath id="clip46">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip46)">
+<g transform="matrix(1, 0, 0, 1, 310.8135681152344, 185.7052459716797)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">polysacc</text>
+</g> <!-- transform -->
+</g> <!-- clip46 -->
+<clipPath id="clip47">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip47)">
+<g transform="matrix(1, 0, 0, 1, 310.8135681152344, 200.7989959716797)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">haride m</text>
+</g> <!-- transform -->
+</g> <!-- clip47 -->
+<clipPath id="clip48">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip48)">
+<g transform="matrix(1, 0, 0, 1, 311.8096618652344, 215.8927459716797)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">etabolic </text>
+</g> <!-- transform -->
+</g> <!-- clip48 -->
+<clipPath id="clip49">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip49)">
+<g transform="matrix(1, 0, 0, 1, 311.4815368652344, 230.9864959716797)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">process </text>
+</g> <!-- transform -->
+</g> <!-- clip49 -->
+<clipPath id="clip50">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip50)">
+<g transform="matrix(1, 0, 0, 1, 310.8077087402344, 246.0802459716797)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">2.86% **</text>
+</g> <!-- transform -->
+</g> <!-- clip50 -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#000000">
+  <path d="M 309.0777587890625 229.57864379882812 C 299.45001220703125 183.91717529296875 296.9565734863281 183.91717529296875 282.89788818359375 187.1259765625"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 311.0777587890625 184.29739379882812 L 365.0933837890625 184.29739379882812 L 365.0933837890625 278.8598937988281 L 311.0777587890625 278.8598937988281 L 311.0777587890625 184.29739379882812 z"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 309.0777587890625 182.29739379882812 L 363.0933837890625 182.29739379882812 L 363.0933837890625 276.8598937988281 L 309.0777587890625 276.8598937988281 L 309.0777587890625 182.29739379882812 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 309.0777587890625 182.29739379882812 L 363.0933837890625 182.29739379882812 L 363.0933837890625 276.8598937988281 L 309.0777587890625 276.8598937988281 L 309.0777587890625 182.29739379882812 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip51">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip51)">
+<g transform="matrix(1, 0, 0, 1, 314.0718994140625, 196.36184692382812)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">nucleosi</text>
+</g> <!-- transform -->
+</g> <!-- clip51 -->
+<clipPath id="clip52">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip52)">
+<g transform="matrix(1, 0, 0, 1, 312.7359619140625, 211.45559692382812)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">de mono</text>
+</g> <!-- transform -->
+</g> <!-- clip52 -->
+<clipPath id="clip53">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip53)">
+<g transform="matrix(1, 0, 0, 1, 311.3970947265625, 226.54934692382812)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">phosphat</text>
+</g> <!-- transform -->
+</g> <!-- clip53 -->
+<clipPath id="clip54">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip54)">
+<g transform="matrix(1, 0, 0, 1, 312.0709228515625, 241.64309692382812)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">e kinase </text>
+</g> <!-- transform -->
+</g> <!-- clip54 -->
+<clipPath id="clip55">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip55)">
+<g transform="matrix(1, 0, 0, 1, 311.0777587890625, 256.7368469238281)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">activity 2.</text>
+</g> <!-- transform -->
+</g> <!-- clip55 -->
+<clipPath id="clip56">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip56)">
+<g transform="matrix(1, 0, 0, 1, 317.7398681640625, 271.8305969238281)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">86% **</text>
+</g> <!-- transform -->
+</g> <!-- clip56 -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#000000">
+  <path d="M 309.1950988769531 247.7821044921875 C 299.45001220703125 210.50868225097656 299.349853515625 210.50868225097656 284.9441223144531 209.86172485351562"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 311.1950988769531 210.0477294921875 L 360.5583801269531 210.0477294921875 L 360.5583801269531 289.5164794921875 L 311.1950988769531 289.5164794921875 L 311.1950988769531 210.0477294921875 z"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 309.1950988769531 208.0477294921875 L 358.5583801269531 208.0477294921875 L 358.5583801269531 287.5164794921875 L 309.1950988769531 287.5164794921875 L 309.1950988769531 208.0477294921875 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 309.1950988769531 208.0477294921875 L 358.5583801269531 208.0477294921875 L 358.5583801269531 287.5164794921875 L 309.1950988769531 287.5164794921875 L 309.1950988769531 208.0477294921875 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip57">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip57)">
+<g transform="matrix(1, 0, 0, 1, 321.5368957519531, 222.1121826171875)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">lipid </text>
+</g> <!-- transform -->
+</g> <!-- clip57 -->
+<clipPath id="clip58">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip58)">
+<g transform="matrix(1, 0, 0, 1, 311.5290832519531, 237.2059326171875)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">biosynth</text>
+</g> <!-- transform -->
+</g> <!-- clip58 -->
+<clipPath id="clip59">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip59)">
+<g transform="matrix(1, 0, 0, 1, 311.2009582519531, 252.2996826171875)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">etic proc</text>
+</g> <!-- transform -->
+</g> <!-- clip59 -->
+<clipPath id="clip60">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip60)">
+<g transform="matrix(1, 0, 0, 1, 311.1950988769531, 267.3934326171875)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">ess 5.71</text>
+</g> <!-- transform -->
+</g> <!-- clip60 -->
+<clipPath id="clip61">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip61)">
+<g transform="matrix(1, 0, 0, 1, 322.2048645019531, 282.4871826171875)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">% **</text>
+</g> <!-- transform -->
+</g> <!-- clip61 -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#000000">
+  <path d="M 308.8077087402344 258.4386901855469 C 299.45001220703125 245.13320922851562 291.4470520019531 245.13320922851562 278.1872253417969 239.4656982421875"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 310.8077087402344 220.70431518554688 L 364.8409118652344 220.70431518554688 L 364.8409118652344 300.1730651855469 L 310.8077087402344 300.1730651855469 L 310.8077087402344 220.70431518554688 z"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 308.8077087402344 218.70431518554688 L 362.8409118652344 218.70431518554688 L 362.8409118652344 298.1730651855469 L 308.8077087402344 298.1730651855469 L 308.8077087402344 218.70431518554688 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 308.8077087402344 218.70431518554688 L 362.8409118652344 218.70431518554688 L 362.8409118652344 298.1730651855469 L 308.8077087402344 298.1730651855469 L 308.8077087402344 218.70431518554688 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip62">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip62)">
+<g transform="matrix(1, 0, 0, 1, 314.4786071777344, 232.76876831054688)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">organic </text>
+</g> <!-- transform -->
+</g> <!-- clip62 -->
+<clipPath id="clip63">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip63)">
+<g transform="matrix(1, 0, 0, 1, 311.8096618652344, 247.86251831054688)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">substanc</text>
+</g> <!-- transform -->
+</g> <!-- clip63 -->
+<clipPath id="clip64">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip64)">
+<g transform="matrix(1, 0, 0, 1, 310.8077087402344, 262.9562683105469)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">e transpo</text>
+</g> <!-- transform -->
+</g> <!-- clip64 -->
+<clipPath id="clip65">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip65)">
+<g transform="matrix(1, 0, 0, 1, 311.8125915527344, 278.0500183105469)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">rt 5.71% </text>
+</g> <!-- transform -->
+</g> <!-- clip65 -->
+<clipPath id="clip66">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip66)">
+<g transform="matrix(1, 0, 0, 1, 331.1543884277344, 293.1437683105469)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">**</text>
+</g> <!-- transform -->
+</g> <!-- clip66 -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#000000">
+  <path d="M 307.8486328125 261.54840087890625 C 299.45001220703125 274.7730407714844 271.8819580078125 274.7730407714844 261.4590759277344 264.8077697753906"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 309.8486328125 231.36090087890625 L 363.8818359375 231.36090087890625 L 363.8818359375 295.73590087890625 L 309.8486328125 295.73590087890625 L 309.8486328125 231.36090087890625 z"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 307.8486328125 229.36090087890625 L 361.8818359375 229.36090087890625 L 361.8818359375 293.73590087890625 L 307.8486328125 293.73590087890625 L 307.8486328125 229.36090087890625 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 307.8486328125 229.36090087890625 L 361.8818359375 229.36090087890625 L 361.8818359375 293.73590087890625 L 307.8486328125 293.73590087890625 L 307.8486328125 229.36090087890625 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip67">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip67)">
+<g transform="matrix(1, 0, 0, 1, 313.51953125, 243.42535400390625)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">organic </text>
+</g> <!-- transform -->
+</g> <!-- clip67 -->
+<clipPath id="clip68">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip68)">
+<g transform="matrix(1, 0, 0, 1, 317.1875, 258.51910400390625)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">cation </text>
+</g> <!-- transform -->
+</g> <!-- clip68 -->
+<clipPath id="clip69">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip69)">
+<g transform="matrix(1, 0, 0, 1, 311.1875, 273.61285400390625)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">transport</text>
+</g> <!-- transform -->
+</g> <!-- clip69 -->
+<clipPath id="clip70">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip70)">
+<g transform="matrix(1, 0, 0, 1, 309.8486328125, 288.70660400390625)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">&#x00a0;5.71% **</text>
+</g> <!-- transform -->
+</g> <!-- clip70 -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#000000">
+  <path d="M 305.6219177246094 294.8456115722656 C 299.45001220703125 301.9129943847656 226.45736694335938 301.9129943847656 222.6210479736328 288.01239013671875"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 307.6219177246094 226.92373657226562 L 361.6551208496094 226.92373657226562 L 361.6551208496094 366.7674865722656 L 307.6219177246094 366.7674865722656 L 307.6219177246094 226.92373657226562 z"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 305.6219177246094 224.92373657226562 L 359.6551208496094 224.92373657226562 L 359.6551208496094 364.7674865722656 L 305.6219177246094 364.7674865722656 L 305.6219177246094 224.92373657226562 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 305.6219177246094 224.92373657226562 L 359.6551208496094 224.92373657226562 L 359.6551208496094 364.7674865722656 L 305.6219177246094 364.7674865722656 L 305.6219177246094 224.92373657226562 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip71">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip71)">
+<g transform="matrix(1, 0, 0, 1, 309.6228942871094, 238.98818969726562)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">oxidored</text>
+</g> <!-- transform -->
+</g> <!-- clip71 -->
+<clipPath id="clip72">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip72)">
+<g transform="matrix(1, 0, 0, 1, 307.9617614746094, 254.08193969726562)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">uction-dri</text>
+</g> <!-- transform -->
+</g> <!-- clip72 -->
+<clipPath id="clip73">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip73)">
+<g transform="matrix(1, 0, 0, 1, 308.9607849121094, 269.1756896972656)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">ven activ</text>
+</g> <!-- transform -->
+</g> <!-- clip73 -->
+<clipPath id="clip74">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip74)">
+<g transform="matrix(1, 0, 0, 1, 309.2976989746094, 284.2694396972656)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">e transm</text>
+</g> <!-- transform -->
+</g> <!-- clip74 -->
+<clipPath id="clip75">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip75)">
+<g transform="matrix(1, 0, 0, 1, 308.9578552246094, 299.3631896972656)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">embrane</text>
+</g> <!-- transform -->
+</g> <!-- clip75 -->
+<clipPath id="clip76">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip76)">
+<g transform="matrix(1, 0, 0, 1, 308.9607849121094, 314.4569396972656)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">&#x00a0;transpor</text>
+</g> <!-- transform -->
+</g> <!-- clip76 -->
+<clipPath id="clip77">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip77)">
+<g transform="matrix(1, 0, 0, 1, 308.6326599121094, 329.5506896972656)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">ter activit</text>
+</g> <!-- transform -->
+</g> <!-- clip77 -->
+<clipPath id="clip78">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip78)">
+<g transform="matrix(1, 0, 0, 1, 307.6219177246094, 344.6444396972656)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">y 11.43%</text>
+</g> <!-- transform -->
+</g> <!-- clip78 -->
+<clipPath id="clip79">
+  <path d="M 5 17.09375 L 5 395 L 395 395 L 395 17.09375 z"/>
+</clipPath>
+<g clip-path="url(#clip79)">
+<g transform="matrix(1, 0, 0, 1, 326.3016052246094, 359.7381896972656)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">&#x00a0;**</text>
+</g> <!-- transform -->
+</g> <!-- clip79 -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#ffffff">
+  <path d="M 5 17.09375 L 395 17.09375 L 395 395 L 5 395 L 5 17.09375 z"/>
+</g> <!-- drawing style -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->

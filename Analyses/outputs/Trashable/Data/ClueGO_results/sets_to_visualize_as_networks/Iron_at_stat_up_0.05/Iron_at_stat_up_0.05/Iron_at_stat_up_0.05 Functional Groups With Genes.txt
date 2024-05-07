@@ -1,0 +1,13 @@
+Function	Groups	Group Genes
+DNA-binding transcription repressor activity	Group10	Rv0079|Rv0135c|Rv0144|Rv0190|Rv0232|Rv0273c|Rv0275c|Rv0298|Rv0465c|Rv0767c|Rv0792c|Rv1255c|Rv1647|Rv1766|Rv2050|Rv2640c|Rv2642|Rv3160c|Rv3249c|Rv3334|Rv3644c|Rv3725|Rv3830c|adoK|alkA|apt|aroE|blaI|che1|clgR|cmtR|cobS|cobT|csoR|dnaB|dnaE2|dnaK|folB|folK|ftsH|glnE|guaB1|higA|ideR|kmtR|mazE6|mazF6|mbtB|mbtG|mbtI|mbtK|mbtL|mbtN|mprA|nrdB|nrdF2|phoY2|ppsA|purB|purU|relA|rpfD|rseA|serC|sigB|sigE|sigG|smtB|thiC|thiO|udgA|vapB1|vapB2|vapC2|whiB1|whiB2|zur
+alkane catabolic process	Group06	alkB|rubA|rubB
+amino acid transmembrane transport	Group05	Rv1986|Rv3273|cydC|dctA
+cellular iron ion homeostasis	Group11	PPE37|Rv1277|Rv1465|Rv2025c|Rv2558|Rv3226c|Rv3402c|alkA|bfrA|clgR|clpB|corA|ctpC|ctpG|cydC|cysD|dnaB|dnaE2|dnaK|eccA3|hisE|hsp|icl1|irtA|irtB|mbtA|mbtB|mbtI|mymT|nrdH|ogt|pckA|phoY2|pks2|ponA1|relA|sigG|trxB1|ung|whiB1|whiB2
+iron-sulfur cluster assembly	Group02	Rv1461|Rv1462|Rv1465|Rv2204c
+nonribosomal peptide biosynthetic process	Group09	Rv1760|Rv2377c|Rv3740c|aroE|cyp123|cyp142|cyp51|erg3|fadA5|fadD19|fadD26|glpQ1|hsaB|hsaC|icl1|ideR|mbtA|mbtB|mbtE|mbtF|mbtG|mbtI|mbtK|mbtL|mbtN|pckA|ppsA|serC|thiC|zur
+response to cadmium ion	Group07	cadI|cmtR|mymT
+response to heat	Group01	clgR|clpB|dnaK|groEL2|sigB|sigE
+response to hypoxia	Group03	PE_PGRS11|Rv0465c|Rv0569|Rv1760|Rv3740c|ald|groEL2|higA|higB|icl1|ponA1|sigB|sigG|trxB1|vapC15
+response to inorganic substance	Group08	Rv0190|Rv1760|Rv2642|Rv2779c|Rv3740c|adhB|bfrA|cadI|cmtR|csoR|ctpG|dnaK|glnE|hsaC|hsp|kmtR|lpqS|mpa|mymT|pckA|sigE|sigG|smtB|trxB1|whiB1|zur
+response to zinc ion	Group00	mymT|smtB|zur
+urea catabolic process	Group04	ureA|ureB|ureC

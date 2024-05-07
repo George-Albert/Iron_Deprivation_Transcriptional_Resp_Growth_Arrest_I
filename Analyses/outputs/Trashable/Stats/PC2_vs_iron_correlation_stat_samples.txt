@@ -1,0 +1,1 @@
+[1] "cor.test(datos$PC2[which(datos$Culture==\"C6\")],datos$iron_number[which(datos$Culture==\"C6\")])"

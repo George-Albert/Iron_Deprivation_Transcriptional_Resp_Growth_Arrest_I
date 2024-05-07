@@ -1,0 +1,12 @@
+Function	Groups	Group Genes
+alkane catabolic process	Group01	alkB|rubA|rubB
+inorganic ion homeostasis	Group09	Rv2025c|Rv2558|Rv3402c|alkA|bfrA|clgR|clpB|corA|ctpC|ctpG|cysD|dnaE2|dnaK|hsp|icl1|ideR|irtA|mbtB|mbtI|mymT|nrdH|ogt|phoY2|relA|trxB1|whiB1
+regulation of gene expression	Group10	Rv0079|Rv0135c|Rv0190|Rv0208c|Rv0232|Rv0273c|Rv0275c|Rv0767c|Rv0792c|Rv2640c|Rv2642|Rv3160c|Rv3249c|Rv3830c|alkA|apt|blaI|clgR|cmtR|csoR|cyp51|dnaE2|dnaK|espL|folE|ftsH|glnE|guaB1|higA|higB|hsaB|ideR|kmtR|mazE6|mazF6|mbtB|mbtI|mobA|mprA|mprB|nrdB|nrdF2|nrdH|phoY2|prfB|proS|purU|relA|rpmH|rseA|sigB|sigE|smtB|thiO|trxB1|udgA|vapB1|vapB2|whiB1|zur
+response to cadmium ion	Group02	cadI|cmtR|mymT
+response to heat	Group07	clgR|clpB|dnaK|groEL2|mprA|rseA|sigB|sigE|vapB2|zur
+response to host	Group04	PPE37|Rv0792c|Rv0986|Rv1462|Rv3402c|clgR|espL|fadB2|fadD19|hisE|icl1|irtA|mbtB|mbtI|moeB1|sigE
+response to host iron concentration	Group03	PPE37|hisE|irtA
+response to metal ion	Group06	Rv0190|Rv1760|Rv2642|bfrA|cadI|cmtR|csoR|ctpG|dnaK|glnE|hsp|kmtR|lpqS|mymT|sigE|smtB|trxB1|whiB1|zur
+response to reactive oxygen species	Group08	clgR|cysD|dnaK|ftsH|hsp|ideR|sigE|trxB1
+response to zinc ion	Group00	mymT|smtB|zur
+sterol metabolic process	Group05	Rv1760|cyp123|cyp142|cyp51|fadA5|fadD19|folE|glpQ1|hsaB|hsaC|icl1|ideR|mbtB|mbtI

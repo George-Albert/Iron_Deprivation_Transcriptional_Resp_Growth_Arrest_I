@@ -1,0 +1,1 @@
+Ojo: en algunas de las figuras, lo publicado (jpegs) no coincide (estéticamente solo), con los pdfs.

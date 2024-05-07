@@ -1,0 +1,1813 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     x="0px"
+     y="0px"
+     width="1000px"
+     height="285px"
+     viewBox="0 0 1000 285"
+     >
+<title></title>
+<desc>Creator: FreeHEP Graphics2D Driver Producer: org.freehep.graphicsio.svg.SVGGraphics2D Revision Source:  Date: Monday, April 4, 2022 at 12:37:04 PM Central European Summer Time</desc>
+<g stroke-dashoffset="0" stroke-linejoin="miter" stroke-dasharray="none" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10">
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 0 0 L 1000 0 L 1000 285 L 0 285 L 0 0 z"/>
+</g> <!-- drawing style -->
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 41.15625 L 992 41.15625 L 992 281 L 254.033203125 281 L 254.033203125 41.15625 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 41.15625 L 992 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip1">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip1)">
+<g transform="matrix(1, 0, 0, 1, 251.25244140625, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">0</text>
+</g> <!-- transform -->
+</g> <!-- clip1 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 39.15625 L 254.033203125 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip2">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip2)">
+<g transform="matrix(1, 0, 0, 1, 286.3937072753906, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">5</text>
+</g> <!-- transform -->
+</g> <!-- clip2 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 289.1744689941406 39.15625 L 289.1744689941406 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip3">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip3)">
+<g transform="matrix(1, 0, 0, 1, 318.7542419433594, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">10</text>
+</g> <!-- transform -->
+</g> <!-- clip3 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 324.3157653808594 39.15625 L 324.3157653808594 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip4">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip4)">
+<g transform="matrix(1, 0, 0, 1, 353.8955078125, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">15</text>
+</g> <!-- transform -->
+</g> <!-- clip4 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 359.45703125 39.15625 L 359.45703125 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip5">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip5)">
+<g transform="matrix(1, 0, 0, 1, 389.0367736816406, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">20</text>
+</g> <!-- transform -->
+</g> <!-- clip5 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 394.5982971191406 39.15625 L 394.5982971191406 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip6">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip6)">
+<g transform="matrix(1, 0, 0, 1, 424.1780700683594, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">25</text>
+</g> <!-- transform -->
+</g> <!-- clip6 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 429.7395935058594 39.15625 L 429.7395935058594 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip7">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip7)">
+<g transform="matrix(1, 0, 0, 1, 459.3193359375, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">30</text>
+</g> <!-- transform -->
+</g> <!-- clip7 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 464.880859375 39.15625 L 464.880859375 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip8">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip8)">
+<g transform="matrix(1, 0, 0, 1, 494.4606018066406, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">35</text>
+</g> <!-- transform -->
+</g> <!-- clip8 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 500.0221252441406 39.15625 L 500.0221252441406 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip9">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip9)">
+<g transform="matrix(1, 0, 0, 1, 529.6018676757812, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">40</text>
+</g> <!-- transform -->
+</g> <!-- clip9 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 535.1633911132812 39.15625 L 535.1633911132812 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip10">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip10)">
+<g transform="matrix(1, 0, 0, 1, 564.7431640625, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">45</text>
+</g> <!-- transform -->
+</g> <!-- clip10 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 570.3046875 39.15625 L 570.3046875 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip11">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip11)">
+<g transform="matrix(1, 0, 0, 1, 599.8844604492188, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">50</text>
+</g> <!-- transform -->
+</g> <!-- clip11 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 605.4459838867188 39.15625 L 605.4459838867188 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip12">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip12)">
+<g transform="matrix(1, 0, 0, 1, 635.0256958007812, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">55</text>
+</g> <!-- transform -->
+</g> <!-- clip12 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 640.5872192382812 39.15625 L 640.5872192382812 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip13">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip13)">
+<g transform="matrix(1, 0, 0, 1, 670.1669921875, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">60</text>
+</g> <!-- transform -->
+</g> <!-- clip13 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 675.728515625 39.15625 L 675.728515625 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip14">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip14)">
+<g transform="matrix(1, 0, 0, 1, 705.3082885742188, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">65</text>
+</g> <!-- transform -->
+</g> <!-- clip14 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 710.8698120117188 39.15625 L 710.8698120117188 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip15">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip15)">
+<g transform="matrix(1, 0, 0, 1, 740.4495239257812, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">70</text>
+</g> <!-- transform -->
+</g> <!-- clip15 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 746.0110473632812 39.15625 L 746.0110473632812 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip16">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip16)">
+<g transform="matrix(1, 0, 0, 1, 775.5908203125, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">75</text>
+</g> <!-- transform -->
+</g> <!-- clip16 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 781.15234375 39.15625 L 781.15234375 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip17">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip17)">
+<g transform="matrix(1, 0, 0, 1, 810.7321166992188, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">80</text>
+</g> <!-- transform -->
+</g> <!-- clip17 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 816.2936401367188 39.15625 L 816.2936401367188 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip18">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip18)">
+<g transform="matrix(1, 0, 0, 1, 845.8733520507812, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">85</text>
+</g> <!-- transform -->
+</g> <!-- clip18 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 851.4348754882812 39.15625 L 851.4348754882812 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip19">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip19)">
+<g transform="matrix(1, 0, 0, 1, 881.0146484375, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">90</text>
+</g> <!-- transform -->
+</g> <!-- clip19 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 886.576171875 39.15625 L 886.576171875 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip20">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip20)">
+<g transform="matrix(1, 0, 0, 1, 916.1559448242188, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">95</text>
+</g> <!-- transform -->
+</g> <!-- clip20 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 921.7174682617188 39.15625 L 921.7174682617188 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip21">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip21)">
+<g transform="matrix(1, 0, 0, 1, 948.5164184570312, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">100</text>
+</g> <!-- transform -->
+</g> <!-- clip21 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 956.8587036132812 39.15625 L 956.8587036132812 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip22">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip22)">
+<g transform="matrix(1, 0, 0, 1, 983.65771484375, 34.6318359375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">105</text>
+</g> <!-- transform -->
+</g> <!-- clip22 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 992 39.15625 L 992 41.15625"/>
+</g> <!-- drawing style -->
+<clipPath id="clip23">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip23)">
+<g transform="matrix(1, 0, 0, 1, 588.0068359375, 19.0537109375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">%Genes / Term</text>
+</g> <!-- transform -->
+</g> <!-- clip23 -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 46.20559210526316 L 254.033203125 46.20559210526316"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 46.20559210526316 L 252.033203125 46.20559210526316"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 58.96920687134503 L 254.033203125 58.96920687134503"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 58.96920687134503 L 252.033203125 58.96920687134503"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 71.7328216374269 L 254.033203125 71.7328216374269"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 71.7328216374269 L 252.033203125 71.7328216374269"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 84.49643640350877 L 254.033203125 84.49643640350877"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 84.49643640350877 L 252.033203125 84.49643640350877"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 97.26005116959064 L 254.033203125 97.26005116959064"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 97.26005116959064 L 252.033203125 97.26005116959064"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 110.02366593567251 L 254.033203125 110.02366593567251"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 110.02366593567251 L 252.033203125 110.02366593567251"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 122.78728070175438 L 254.033203125 122.78728070175438"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 122.78728070175438 L 252.033203125 122.78728070175438"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 135.55089546783623 L 254.033203125 135.55089546783623"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 135.55089546783623 L 252.033203125 135.55089546783623"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 148.31451023391813 L 254.033203125 148.31451023391813"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 148.31451023391813 L 252.033203125 148.31451023391813"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 161.07812499999997 L 254.033203125 161.07812499999997"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 161.07812499999997 L 252.033203125 161.07812499999997"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 173.84173976608187 L 254.033203125 173.84173976608187"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 173.84173976608187 L 252.033203125 173.84173976608187"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 186.60535453216372 L 254.033203125 186.60535453216372"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 186.60535453216372 L 252.033203125 186.60535453216372"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 199.3689692982456 L 254.033203125 199.3689692982456"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 199.3689692982456 L 252.033203125 199.3689692982456"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 212.13258406432746 L 254.033203125 212.13258406432746"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 212.13258406432746 L 252.033203125 212.13258406432746"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 224.89619883040933 L 254.033203125 224.89619883040933"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 224.89619883040933 L 252.033203125 224.89619883040933"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 237.6598135964912 L 254.033203125 237.6598135964912"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 237.6598135964912 L 252.033203125 237.6598135964912"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 250.42342836257308 L 254.033203125 250.42342836257308"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 250.42342836257308 L 252.033203125 250.42342836257308"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 263.187043128655 L 254.033203125 263.187043128655"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 263.187043128655 L 252.033203125 263.187043128655"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 275.9506578947368 L 254.033203125 275.9506578947368"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" fill="none" stroke="#808080">
+  <path d="M 254.033203125 275.9506578947368 L 252.033203125 275.9506578947368"/>
+</g> <!-- drawing style -->
+<clipPath id="clip24">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip24)">
+<g transform="matrix(1, 0, 0, 1, 111.3193359375, 49.97024154663086)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">cytochrome complex assembly</text>
+</g> <!-- transform -->
+</g> <!-- clip24 -->
+<clipPath id="clip25">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip25)">
+<g transform="matrix(1, 0, 0, 1, 178.00390625, 62.733856201171875)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">glyoxylate cycle</text>
+</g> <!-- transform -->
+</g> <!-- clip25 -->
+<clipPath id="clip26">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip26)">
+<g transform="matrix(1, 0, 0, 1, 107.955078125, 75.49746704101562)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">oxaloacetate metabolic process</text>
+</g> <!-- transform -->
+</g> <!-- clip26 -->
+<clipPath id="clip27">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip27)">
+<g transform="matrix(1, 0, 0, 1, 112.955078125, 88.2610855102539)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">threonine biosynthetic process</text>
+</g> <!-- transform -->
+</g> <!-- clip27 -->
+<clipPath id="clip28">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip28)">
+<g transform="matrix(1, 0, 0, 1, 117.4033203125, 101.02469635009766)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">propionate metabolic process</text>
+</g> <!-- transform -->
+</g> <!-- clip28 -->
+<clipPath id="clip29">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip29)">
+<g transform="matrix(1, 0, 0, 1, 29.6005859375, 113.78831481933594)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">propionate metabolic process, methylcitrate cycle</text>
+</g> <!-- transform -->
+</g> <!-- clip29 -->
+<clipPath id="clip30">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip30)">
+<g transform="matrix(1, 0, 0, 1, 110.7431640625, 126.55192565917969)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">organic acid metabolic process</text>
+</g> <!-- transform -->
+</g> <!-- clip30 -->
+<clipPath id="clip31">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip31)">
+<g transform="matrix(1, 0, 0, 1, 99.0830078125, 139.31553649902344)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">carboxylic acid metabolic process</text>
+</g> <!-- transform -->
+</g> <!-- clip31 -->
+<clipPath id="clip32">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip32)">
+<g transform="matrix(1, 0, 0, 1, 157.96484375, 152.07916259765625)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">regulation of binding</text>
+</g> <!-- transform -->
+</g> <!-- clip32 -->
+<clipPath id="clip33">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip33)">
+<g transform="matrix(1, 0, 0, 1, 84.068359375, 164.8427734375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">positive regulation of catalytic activity</text>
+</g> <!-- transform -->
+</g> <!-- clip33 -->
+<clipPath id="clip34">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip34)">
+<g transform="matrix(1, 0, 0, 1, 117.37890625, 177.60638427734375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">negative regulation of binding</text>
+</g> <!-- transform -->
+</g> <!-- clip34 -->
+<clipPath id="clip35">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip35)">
+<g transform="matrix(1, 0, 0, 1, 109.625, 190.37001037597656)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">carbohydrate catabolic process</text>
+</g> <!-- transform -->
+</g> <!-- clip35 -->
+<clipPath id="clip36">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip36)">
+<g transform="matrix(1, 0, 0, 1, 177.427734375, 203.1336212158203)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">phosphorylation</text>
+</g> <!-- transform -->
+</g> <!-- clip36 -->
+<clipPath id="clip37">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip37)">
+<g transform="matrix(1, 0, 0, 1, 126.3095703125, 215.89723205566406)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">pyruvate metabolic process</text>
+</g> <!-- transform -->
+</g> <!-- clip37 -->
+<clipPath id="clip38">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip38)">
+<g transform="matrix(1, 0, 0, 1, 169.673828125, 228.6608428955078)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">glycolytic process</text>
+</g> <!-- transform -->
+</g> <!-- clip38 -->
+<clipPath id="clip39">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip39)">
+<g transform="matrix(1, 0, 0, 1, 37.90625, 241.42446899414062)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">generation of precursor metabolites and energy</text>
+</g> <!-- transform -->
+</g> <!-- clip39 -->
+<clipPath id="clip40">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip40)">
+<g transform="matrix(1, 0, 0, 1, 14, 254.18807983398438)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">energy derivation by oxidation of organic compounds</text>
+</g> <!-- transform -->
+</g> <!-- clip40 -->
+<clipPath id="clip41">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip41)">
+<g transform="matrix(1, 0, 0, 1, 148.560546875, 266.9516906738281)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">tricarboxylic acid cycle</text>
+</g> <!-- transform -->
+</g> <!-- clip41 -->
+<clipPath id="clip42">
+  <path d="M 0 0 L 0 285 L 1000 285 L 1000 0 z"/>
+</clipPath>
+<g clip-path="url(#clip42)">
+<g transform="matrix(1, 0, 0, 1, 166.8857421875, 279.7153015136719)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">cellular respiration</text>
+</g> <!-- transform -->
+</g> <!-- clip42 -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 289.1744791666667 41.15625 L 289.1744791666667 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 324.3157552083333 41.15625 L 324.3157552083333 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 359.45703125 41.15625 L 359.45703125 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 394.59830729166663 41.15625 L 394.59830729166663 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 429.7395833333333 41.15625 L 429.7395833333333 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 464.880859375 41.15625 L 464.880859375 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 500.02213541666663 41.15625 L 500.02213541666663 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 535.1634114583333 41.15625 L 535.1634114583333 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 570.3046875 41.15625 L 570.3046875 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 605.4459635416666 41.15625 L 605.4459635416666 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 640.5872395833334 41.15625 L 640.5872395833334 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 675.728515625 41.15625 L 675.728515625 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 710.8697916666667 41.15625 L 710.8697916666667 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 746.0110677083333 41.15625 L 746.0110677083333 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 781.15234375 41.15625 L 781.15234375 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 816.2936197916666 41.15625 L 816.2936197916666 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 851.4348958333334 41.15625 L 851.4348958333334 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 886.576171875 41.15625 L 886.576171875 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 921.7174479166666 41.15625 L 921.7174479166666 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 956.8587239583333 41.15625 L 956.8587239583333 281"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-linejoin="bevel" stroke-dasharray="2,2" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="0">
+  <path d="M 992 41.15625 L 992 281"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-0" x1="0" y1="41.15625" x2="0" y2="756.0514526367188" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#003333" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-0)">
+<g fill="url(#gradient-0)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 41.15625 L 756.0514476120472 41.15625 L 756.0514476120472 42 L 254.033203125 42 L 254.033203125 41.15625 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-1" x1="0" y1="42" x2="0" y2="43" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#003333" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-1)">
+<g fill="url(#gradient-1)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 42 L 756.0514476120472 42 L 756.0514476120472 43 L 254.033203125 43 L 254.033203125 42 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-2" x1="0" y1="43" x2="0" y2="49" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#003333" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#004848" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-2)">
+<g fill="url(#gradient-2)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 43 L 756.0514476120472 43 L 756.0514476120472 49 L 254.033203125 49 L 254.033203125 43 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-3" x1="0" y1="49" x2="0" y2="51.25493240356445" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#004848" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#003333" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-3)">
+<g fill="url(#gradient-3)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 49 L 756.0514476120472 49 L 756.0514476120472 51.254934210526315 L 254.033203125 51.254934210526315 L 254.033203125 49 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 41.15625 L 756.0514476120472 41.15625 L 756.0514476120472 51.254934210526315 L 254.033203125 51.254934210526315 L 254.033203125 41.15625 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip43">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip43)">
+<g transform="matrix(1, 0, 0, 1, 758.0514526367188, 49.97024154663086)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">5</text>
+</g> <!-- transform -->
+</g> <!-- clip43 -->
+<defs>
+  <linearGradient id="gradient-4" x1="0" y1="53.919864654541016" x2="0" y2="816.2936401367188" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#1cf83d" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-4)">
+<g fill="url(#gradient-4)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 53.91986476608187 L 816.2936197916666 53.91986476608187 L 816.2936197916666 55 L 254.033203125 55 L 254.033203125 53.91986476608187 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-5" x1="0" y1="55" x2="0" y2="56" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#1cf83d" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-5)">
+<g fill="url(#gradient-5)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 55 L 816.2936197916666 55 L 816.2936197916666 56 L 254.033203125 56 L 254.033203125 55 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-6" x1="0" y1="56" x2="0" y2="62" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#1cf83d" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#28ff57" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-6)">
+<g fill="url(#gradient-6)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 56 L 816.2936197916666 56 L 816.2936197916666 62 L 254.033203125 62 L 254.033203125 56 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-7" x1="0" y1="62" x2="0" y2="64.01854705810547" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#28ff57" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#1cf83d" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-7)">
+<g fill="url(#gradient-7)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 62 L 816.2936197916666 62 L 816.2936197916666 64.01854897660819 L 254.033203125 64.01854897660819 L 254.033203125 62 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 53.91986476608187 L 816.2936197916666 53.91986476608187 L 816.2936197916666 64.01854897660819 L 254.033203125 64.01854897660819 L 254.033203125 53.91986476608187 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip44">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip44)">
+<g transform="matrix(1, 0, 0, 1, 818.2936401367188, 62.733856201171875)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">4</text>
+</g> <!-- transform -->
+</g> <!-- clip44 -->
+<defs>
+  <linearGradient id="gradient-8" x1="0" y1="66.68347930908203" x2="0" y2="956.8587036132812" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#003300" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-8)">
+<g fill="url(#gradient-8)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 66.68347953216374 L 956.8587239583333 66.68347953216374 L 956.8587239583333 68 L 254.033203125 68 L 254.033203125 66.68347953216374 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-9" x1="0" y1="68" x2="0" y2="69" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#003300" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-9)">
+<g fill="url(#gradient-9)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 68 L 956.8587239583333 68 L 956.8587239583333 69 L 254.033203125 69 L 254.033203125 68 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-10" x1="0" y1="69" x2="0" y2="75" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#003300" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#004800" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-10)">
+<g fill="url(#gradient-10)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 69 L 956.8587239583333 69 L 956.8587239583333 75 L 254.033203125 75 L 254.033203125 69 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-11" x1="0" y1="75" x2="0" y2="76.78216552734375" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#004800" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#003300" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-11)">
+<g fill="url(#gradient-11)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 75 L 956.8587239583333 75 L 956.8587239583333 76.78216374269006 L 254.033203125 76.78216374269006 L 254.033203125 75 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 66.68347953216374 L 956.8587239583333 66.68347953216374 L 956.8587239583333 76.78216374269006 L 254.033203125 76.78216374269006 L 254.033203125 66.68347953216374 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip45">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip45)">
+<g transform="matrix(1, 0, 0, 1, 958.8587036132812, 75.49746704101562)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">3</text>
+</g> <!-- transform -->
+</g> <!-- clip45 -->
+<defs>
+  <linearGradient id="gradient-12" x1="0" y1="79.44709777832031" x2="0" y2="816.2936401367188" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#02068d" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-12)">
+<g fill="url(#gradient-12)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 79.44709429824562 L 816.2936197916666 79.44709429824562 L 816.2936197916666 80 L 254.033203125 80 L 254.033203125 79.44709429824562 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-13" x1="0" y1="80" x2="0" y2="81" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#02068d" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-13)">
+<g fill="url(#gradient-13)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 80 L 816.2936197916666 80 L 816.2936197916666 81 L 254.033203125 81 L 254.033203125 80 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-14" x1="0" y1="81" x2="0" y2="88" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#02068d" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#0408c9" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-14)">
+<g fill="url(#gradient-14)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 81 L 816.2936197916666 81 L 816.2936197916666 88 L 254.033203125 88 L 254.033203125 81 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-15" x1="0" y1="88" x2="0" y2="89.5457763671875" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#0408c9" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#02068d" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-15)">
+<g fill="url(#gradient-15)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 88 L 816.2936197916666 88 L 816.2936197916666 89.54577850877193 L 254.033203125 89.54577850877193 L 254.033203125 88 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 79.44709429824562 L 816.2936197916666 79.44709429824562 L 816.2936197916666 89.54577850877193 L 254.033203125 89.54577850877193 L 254.033203125 79.44709429824562 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip46">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip46)">
+<g transform="matrix(1, 0, 0, 1, 818.2936401367188, 88.2610855102539)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">4</text>
+</g> <!-- transform -->
+</g> <!-- clip46 -->
+<defs>
+  <linearGradient id="gradient-16" x1="0" y1="92.21070861816406" x2="0" y2="856.455078125" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#c822aa" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-16)">
+<g fill="url(#gradient-16)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 92.21070906432749 L 856.4550857851902 92.21070906432749 L 856.4550857851902 93 L 254.033203125 93 L 254.033203125 92.21070906432749 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-17" x1="0" y1="93" x2="0" y2="94" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#c822aa" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-17)">
+<g fill="url(#gradient-17)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 93 L 856.4550857851902 93 L 856.4550857851902 94 L 254.033203125 94 L 254.033203125 93 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-18" x1="0" y1="94" x2="0" y2="100" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#c822aa" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ff30f2" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-18)">
+<g fill="url(#gradient-18)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 94 L 856.4550857851902 94 L 856.4550857851902 100 L 254.033203125 100 L 254.033203125 94 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-19" x1="0" y1="100" x2="0" y2="102.30939483642578" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ff30f2" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#c822aa" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-19)">
+<g fill="url(#gradient-19)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 100 L 856.4550857851902 100 L 856.4550857851902 102.3093932748538 L 254.033203125 102.3093932748538 L 254.033203125 100 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 92.21070906432749 L 856.4550857851902 92.21070906432749 L 856.4550857851902 102.3093932748538 L 254.033203125 102.3093932748538 L 254.033203125 92.21070906432749 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip47">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip47)">
+<g transform="matrix(1, 0, 0, 1, 858.455078125, 101.02469635009766)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">6</text>
+</g> <!-- transform -->
+</g> <!-- clip47 -->
+<defs>
+  <linearGradient id="gradient-20" x1="0" y1="104.97432708740234" x2="0" y2="956.8587036132812" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#c822aa" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-20)">
+<g fill="url(#gradient-20)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 104.97432383040936 L 956.8587239583333 104.97432383040936 L 956.8587239583333 106 L 254.033203125 106 L 254.033203125 104.97432383040936 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-21" x1="0" y1="106" x2="0" y2="107" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#c822aa" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-21)">
+<g fill="url(#gradient-21)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 106 L 956.8587239583333 106 L 956.8587239583333 107 L 254.033203125 107 L 254.033203125 106 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-22" x1="0" y1="107" x2="0" y2="113" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#c822aa" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ff30f2" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-22)">
+<g fill="url(#gradient-22)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 107 L 956.8587239583333 107 L 956.8587239583333 113 L 254.033203125 113 L 254.033203125 107 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-23" x1="0" y1="113" x2="0" y2="115.07300567626953" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ff30f2" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#c822aa" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-23)">
+<g fill="url(#gradient-23)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 113 L 956.8587239583333 113 L 956.8587239583333 115.07300804093568 L 254.033203125 115.07300804093568 L 254.033203125 113 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 104.97432383040936 L 956.8587239583333 104.97432383040936 L 956.8587239583333 115.07300804093568 L 254.033203125 115.07300804093568 L 254.033203125 104.97432383040936 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip48">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip48)">
+<g transform="matrix(1, 0, 0, 1, 958.8587036132812, 113.78831481933594)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">3</text>
+</g> <!-- transform -->
+</g> <!-- clip48 -->
+<defs>
+  <linearGradient id="gradient-24" x1="0" y1="117.7379379272461" x2="0" y2="365.69708251953125" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#cb3600" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-24)">
+<g fill="url(#gradient-24)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 117.73793859649123 L 365.6970729881277 117.73793859649123 L 365.6970729881277 119 L 254.033203125 119 L 254.033203125 117.73793859649123 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-25" x1="0" y1="119" x2="0" y2="120" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#cb3600" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-25)">
+<g fill="url(#gradient-25)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 119 L 365.6970729881277 119 L 365.6970729881277 120 L 254.033203125 120 L 254.033203125 119 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-26" x1="0" y1="120" x2="0" y2="126" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#cb3600" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ff4d00" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-26)">
+<g fill="url(#gradient-26)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 120 L 365.6970729881277 120 L 365.6970729881277 126 L 254.033203125 126 L 254.033203125 120 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-27" x1="0" y1="126" x2="0" y2="127.83662414550781" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ff4d00" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#cb3600" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-27)">
+<g fill="url(#gradient-27)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 126 L 365.6970729881277 126 L 365.6970729881277 127.83662280701755 L 254.033203125 127.83662280701755 L 254.033203125 126 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 117.73793859649123 L 365.6970729881277 117.73793859649123 L 365.6970729881277 127.83662280701755 L 254.033203125 127.83662280701755 L 254.033203125 117.73793859649123 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip49">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip49)">
+<g transform="matrix(1, 0, 0, 1, 367.69708251953125, 126.55192565917969)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">68</text>
+</g> <!-- transform -->
+</g> <!-- clip49 -->
+<defs>
+  <linearGradient id="gradient-28" x1="0" y1="130.50155639648438" x2="0" y2="365.72918701171875" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#cb3600" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-28)">
+<g fill="url(#gradient-28)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 130.50155336257308 L 365.7291921659062 130.50155336257308 L 365.7291921659062 132 L 254.033203125 132 L 254.033203125 130.50155336257308 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-29" x1="0" y1="132" x2="0" y2="133" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#cb3600" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-29)">
+<g fill="url(#gradient-29)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 132 L 365.7291921659062 132 L 365.7291921659062 133 L 254.033203125 133 L 254.033203125 132 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-30" x1="0" y1="133" x2="0" y2="139" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#cb3600" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ff4d00" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-30)">
+<g fill="url(#gradient-30)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 133 L 365.7291921659062 133 L 365.7291921659062 139 L 254.033203125 139 L 254.033203125 133 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-31" x1="0" y1="139" x2="0" y2="140.60023498535156" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ff4d00" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#cb3600" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-31)">
+<g fill="url(#gradient-31)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 139 L 365.7291921659062 139 L 365.7291921659062 140.60023757309938 L 254.033203125 140.60023757309938 L 254.033203125 139 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 130.50155336257308 L 365.7291921659062 130.50155336257308 L 365.7291921659062 140.60023757309938 L 254.033203125 140.60023757309938 L 254.033203125 130.50155336257308 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip50">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip50)">
+<g transform="matrix(1, 0, 0, 1, 367.72918701171875, 139.31553649902344)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">65</text>
+</g> <!-- transform -->
+</g> <!-- clip50 -->
+<defs>
+  <linearGradient id="gradient-32" x1="0" y1="143.26516723632812" x2="0" y2="644.4918212890625" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ce51ee" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-32)">
+<g fill="url(#gradient-32)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 143.26516812865498 L 644.4918377260367 143.26516812865498 L 644.4918377260367 144 L 254.033203125 144 L 254.033203125 143.26516812865498 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-33" x1="0" y1="144" x2="0" y2="145" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ce51ee" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-33)">
+<g fill="url(#gradient-33)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 144 L 644.4918377260367 144 L 644.4918377260367 145 L 254.033203125 145 L 254.033203125 144 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-34" x1="0" y1="145" x2="0" y2="151" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ce51ee" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ff73ff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-34)">
+<g fill="url(#gradient-34)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 145 L 644.4918377260367 145 L 644.4918377260367 151 L 254.033203125 151 L 254.033203125 145 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-35" x1="0" y1="151" x2="0" y2="153.3638458251953" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ff73ff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ce51ee" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-35)">
+<g fill="url(#gradient-35)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 151 L 644.4918377260367 151 L 644.4918377260367 153.36385233918128 L 254.033203125 153.36385233918128 L 254.033203125 151 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 143.26516812865498 L 644.4918377260367 143.26516812865498 L 644.4918377260367 153.36385233918128 L 254.033203125 153.36385233918128 L 254.033203125 143.26516812865498 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip51">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip51)">
+<g transform="matrix(1, 0, 0, 1, 646.4918212890625, 152.07916259765625)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">5</text>
+</g> <!-- transform -->
+</g> <!-- clip51 -->
+<defs>
+  <linearGradient id="gradient-36" x1="0" y1="156.02877807617188" x2="0" y2="605.4459838867188" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ce51ee" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-36)">
+<g fill="url(#gradient-36)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 156.02878289473682 L 605.4459635416666 156.02878289473682 L 605.4459635416666 157 L 254.033203125 157 L 254.033203125 156.02878289473682 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-37" x1="0" y1="157" x2="0" y2="158" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ce51ee" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-37)">
+<g fill="url(#gradient-37)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 157 L 605.4459635416666 157 L 605.4459635416666 158 L 254.033203125 158 L 254.033203125 157 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-38" x1="0" y1="158" x2="0" y2="164" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ce51ee" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ff73ff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-38)">
+<g fill="url(#gradient-38)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 158 L 605.4459635416666 158 L 605.4459635416666 164 L 254.033203125 164 L 254.033203125 158 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-39" x1="0" y1="164" x2="0" y2="166.12747192382812" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ff73ff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ce51ee" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-39)">
+<g fill="url(#gradient-39)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 164 L 605.4459635416666 164 L 605.4459635416666 166.12746710526312 L 254.033203125 166.12746710526312 L 254.033203125 164 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 156.02878289473682 L 605.4459635416666 156.02878289473682 L 605.4459635416666 166.12746710526312 L 254.033203125 166.12746710526312 L 254.033203125 156.02878289473682 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip52">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip52)">
+<g transform="matrix(1, 0, 0, 1, 607.4459838867188, 164.8427734375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">5</text>
+</g> <!-- transform -->
+</g> <!-- clip52 -->
+<defs>
+  <linearGradient id="gradient-40" x1="0" y1="168.7924041748047" x2="0" y2="956.8587036132812" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ce51ee" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-40)">
+<g fill="url(#gradient-40)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 168.79239766081872 L 956.8587239583333 168.79239766081872 L 956.8587239583333 170 L 254.033203125 170 L 254.033203125 168.79239766081872 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-41" x1="0" y1="170" x2="0" y2="171" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ce51ee" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-41)">
+<g fill="url(#gradient-41)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 170 L 956.8587239583333 170 L 956.8587239583333 171 L 254.033203125 171 L 254.033203125 170 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-42" x1="0" y1="171" x2="0" y2="177" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ce51ee" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ff73ff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-42)">
+<g fill="url(#gradient-42)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 171 L 956.8587239583333 171 L 956.8587239583333 177 L 254.033203125 177 L 254.033203125 171 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-43" x1="0" y1="177" x2="0" y2="178.89108276367188" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ff73ff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ce51ee" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-43)">
+<g fill="url(#gradient-43)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 177 L 956.8587239583333 177 L 956.8587239583333 178.89108187134502 L 254.033203125 178.89108187134502 L 254.033203125 177 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 168.79239766081872 L 956.8587239583333 168.79239766081872 L 956.8587239583333 178.89108187134502 L 254.033203125 178.89108187134502 L 254.033203125 168.79239766081872 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip53">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip53)">
+<g transform="matrix(1, 0, 0, 1, 958.8587036132812, 177.60638427734375)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">3</text>
+</g> <!-- transform -->
+</g> <!-- clip53 -->
+<defs>
+  <linearGradient id="gradient-44" x1="0" y1="181.55601501464844" x2="0" y2="473.6661682128906" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#9c0e2d" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-44)">
+<g fill="url(#gradient-44)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 181.55601242690057 L 473.66617838541663 181.55601242690057 L 473.66617838541663 183 L 254.033203125 183 L 254.033203125 181.55601242690057 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-45" x1="0" y1="183" x2="0" y2="184" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#9c0e2d" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-45)">
+<g fill="url(#gradient-45)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 183 L 473.66617838541663 183 L 473.66617838541663 184 L 254.033203125 184 L 254.033203125 183 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-46" x1="0" y1="184" x2="0" y2="190" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#9c0e2d" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#de1440" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-46)">
+<g fill="url(#gradient-46)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 184 L 473.66617838541663 184 L 473.66617838541663 190 L 254.033203125 190 L 254.033203125 184 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-47" x1="0" y1="190" x2="0" y2="191.65469360351562" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#de1440" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#9c0e2d" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-47)">
+<g fill="url(#gradient-47)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 190 L 473.66617838541663 190 L 473.66617838541663 191.65469663742687 L 254.033203125 191.65469663742687 L 254.033203125 190 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 181.55601242690057 L 473.66617838541663 181.55601242690057 L 473.66617838541663 191.65469663742687 L 254.033203125 191.65469663742687 L 254.033203125 181.55601242690057 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip54">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip54)">
+<g transform="matrix(1, 0, 0, 1, 475.6661682128906, 190.37001037597656)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">10</text>
+</g> <!-- transform -->
+</g> <!-- clip54 -->
+<defs>
+  <linearGradient id="gradient-48" x1="0" y1="194.3196258544922" x2="0" y2="415.6830749511719" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#9c0e2d" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-48)">
+<g fill="url(#gradient-48)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 194.31962719298244 L 415.6830729166667 194.31962719298244 L 415.6830729166667 195 L 254.033203125 195 L 254.033203125 194.31962719298244 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-49" x1="0" y1="195" x2="0" y2="196" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#9c0e2d" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-49)">
+<g fill="url(#gradient-49)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 195 L 415.6830729166667 195 L 415.6830729166667 196 L 254.033203125 196 L 254.033203125 195 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-50" x1="0" y1="196" x2="0" y2="202" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#9c0e2d" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#de1440" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-50)">
+<g fill="url(#gradient-50)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 196 L 415.6830729166667 196 L 415.6830729166667 202 L 254.033203125 202 L 254.033203125 196 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-51" x1="0" y1="202" x2="0" y2="204.41830444335938" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#de1440" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#9c0e2d" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-51)">
+<g fill="url(#gradient-51)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 202 L 415.6830729166667 202 L 415.6830729166667 204.41831140350877 L 254.033203125 204.41831140350877 L 254.033203125 202 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 194.31962719298244 L 415.6830729166667 194.31962719298244 L 415.6830729166667 204.41831140350877 L 254.033203125 204.41831140350877 L 254.033203125 194.31962719298244 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip55">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip55)">
+<g transform="matrix(1, 0, 0, 1, 417.6830749511719, 203.1336212158203)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">23</text>
+</g> <!-- transform -->
+</g> <!-- clip55 -->
+<defs>
+  <linearGradient id="gradient-52" x1="0" y1="207.08323669433594" x2="0" y2="473.6661682128906" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#9c0e2d" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-52)">
+<g fill="url(#gradient-52)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 207.0832419590643 L 473.66617838541663 207.0832419590643 L 473.66617838541663 208 L 254.033203125 208 L 254.033203125 207.0832419590643 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-53" x1="0" y1="208" x2="0" y2="209" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#9c0e2d" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-53)">
+<g fill="url(#gradient-53)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 208 L 473.66617838541663 208 L 473.66617838541663 209 L 254.033203125 209 L 254.033203125 208 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-54" x1="0" y1="209" x2="0" y2="215" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#9c0e2d" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#de1440" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-54)">
+<g fill="url(#gradient-54)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 209 L 473.66617838541663 209 L 473.66617838541663 215 L 254.033203125 215 L 254.033203125 209 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-55" x1="0" y1="215" x2="0" y2="217.1819305419922" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#de1440" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#9c0e2d" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-55)">
+<g fill="url(#gradient-55)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 215 L 473.66617838541663 215 L 473.66617838541663 217.1819261695906 L 254.033203125 217.1819261695906 L 254.033203125 215 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 207.0832419590643 L 473.66617838541663 207.0832419590643 L 473.66617838541663 217.1819261695906 L 254.033203125 217.1819261695906 L 254.033203125 207.0832419590643 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip56">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip56)">
+<g transform="matrix(1, 0, 0, 1, 475.6661682128906, 215.89723205566406)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">10</text>
+</g> <!-- transform -->
+</g> <!-- clip56 -->
+<defs>
+  <linearGradient id="gradient-56" x1="0" y1="219.84686279296875" x2="0" y2="605.4459838867188" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#9c0e2d" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-56)">
+<g fill="url(#gradient-56)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 219.84685672514618 L 605.4459635416666 219.84685672514618 L 605.4459635416666 221 L 254.033203125 221 L 254.033203125 219.84685672514618 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-57" x1="0" y1="221" x2="0" y2="222" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#9c0e2d" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-57)">
+<g fill="url(#gradient-57)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 221 L 605.4459635416666 221 L 605.4459635416666 222 L 254.033203125 222 L 254.033203125 221 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-58" x1="0" y1="222" x2="0" y2="228" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#9c0e2d" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#de1440" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-58)">
+<g fill="url(#gradient-58)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 222 L 605.4459635416666 222 L 605.4459635416666 228 L 254.033203125 228 L 254.033203125 222 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-59" x1="0" y1="228" x2="0" y2="229.94554138183594" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#de1440" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#9c0e2d" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-59)">
+<g fill="url(#gradient-59)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 228 L 605.4459635416666 228 L 605.4459635416666 229.9455409356725 L 254.033203125 229.9455409356725 L 254.033203125 228 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 219.84685672514618 L 605.4459635416666 219.84685672514618 L 605.4459635416666 229.9455409356725 L 254.033203125 229.9455409356725 L 254.033203125 219.84685672514618 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip57">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip57)">
+<g transform="matrix(1, 0, 0, 1, 607.4459838867188, 228.6608428955078)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">8</text>
+</g> <!-- transform -->
+</g> <!-- clip57 -->
+<defs>
+  <linearGradient id="gradient-60" x1="0" y1="232.6104736328125" x2="0" y2="518.3987426757812" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#455d1c" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-60)">
+<g fill="url(#gradient-60)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 232.61047149122805 L 518.3987556765477 232.61047149122805 L 518.3987556765477 234 L 254.033203125 234 L 254.033203125 232.61047149122805 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-61" x1="0" y1="234" x2="0" y2="235" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#455d1c" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-61)">
+<g fill="url(#gradient-61)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 234 L 518.3987556765477 234 L 518.3987556765477 235 L 254.033203125 235 L 254.033203125 234 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-62" x1="0" y1="235" x2="0" y2="241" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#455d1c" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#628428" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-62)">
+<g fill="url(#gradient-62)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 235 L 518.3987556765477 235 L 518.3987556765477 241 L 254.033203125 241 L 254.033203125 235 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-63" x1="0" y1="241" x2="0" y2="242.7091522216797" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#628428" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#455d1c" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-63)">
+<g fill="url(#gradient-63)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 241 L 518.3987556765477 241 L 518.3987556765477 242.70915570175436 L 254.033203125 242.70915570175436 L 254.033203125 241 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 232.61047149122805 L 518.3987556765477 232.61047149122805 L 518.3987556765477 242.70915570175436 L 254.033203125 242.70915570175436 L 254.033203125 232.61047149122805 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip58">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip58)">
+<g transform="matrix(1, 0, 0, 1, 520.3987426757812, 241.42446899414062)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">41</text>
+</g> <!-- transform -->
+</g> <!-- clip58 -->
+<defs>
+  <linearGradient id="gradient-64" x1="0" y1="245.37408447265625" x2="0" y2="539.5560913085938" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#455d1c" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-64)">
+<g fill="url(#gradient-64)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 245.37408625730993 L 539.5560709635417 245.37408625730993 L 539.5560709635417 246 L 254.033203125 246 L 254.033203125 245.37408625730993 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-65" x1="0" y1="246" x2="0" y2="247" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#455d1c" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-65)">
+<g fill="url(#gradient-65)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 246 L 539.5560709635417 246 L 539.5560709635417 247 L 254.033203125 247 L 254.033203125 246 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-66" x1="0" y1="247" x2="0" y2="253" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#455d1c" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#628428" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-66)">
+<g fill="url(#gradient-66)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 247 L 539.5560709635417 247 L 539.5560709635417 253 L 254.033203125 253 L 254.033203125 247 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-67" x1="0" y1="253" x2="0" y2="255.47276306152344" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#628428" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#455d1c" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-67)">
+<g fill="url(#gradient-67)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 253 L 539.5560709635417 253 L 539.5560709635417 255.47277046783626 L 254.033203125 255.47277046783626 L 254.033203125 253 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 245.37408625730993 L 539.5560709635417 245.37408625730993 L 539.5560709635417 255.47277046783626 L 254.033203125 255.47277046783626 L 254.033203125 245.37408625730993 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip59">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip59)">
+<g transform="matrix(1, 0, 0, 1, 541.5560913085938, 254.18807983398438)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">26</text>
+</g> <!-- transform -->
+</g> <!-- clip59 -->
+<defs>
+  <linearGradient id="gradient-68" x1="0" y1="258.1376953125" x2="0" y2="647.615478515625" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#455d1c" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-68)">
+<g fill="url(#gradient-68)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 258.1377010233918 L 647.6154947916666 258.1377010233918 L 647.6154947916666 259 L 254.033203125 259 L 254.033203125 258.1377010233918 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-69" x1="0" y1="259" x2="0" y2="260" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#455d1c" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-69)">
+<g fill="url(#gradient-69)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 259 L 647.6154947916666 259 L 647.6154947916666 260 L 254.033203125 260 L 254.033203125 259 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-70" x1="0" y1="260" x2="0" y2="266" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#455d1c" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#628428" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-70)">
+<g fill="url(#gradient-70)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 260 L 647.6154947916666 260 L 647.6154947916666 266 L 254.033203125 266 L 254.033203125 260 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-71" x1="0" y1="266" x2="0" y2="268.23638916015625" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#628428" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#455d1c" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-71)">
+<g fill="url(#gradient-71)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 266 L 647.6154947916666 266 L 647.6154947916666 268.2363852339181 L 254.033203125 268.2363852339181 L 254.033203125 266 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 258.1377010233918 L 647.6154947916666 258.1377010233918 L 647.6154947916666 268.2363852339181 L 254.033203125 268.2363852339181 L 254.033203125 258.1377010233918 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip60">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip60)">
+<g transform="matrix(1, 0, 0, 1, 649.615478515625, 266.9516906738281)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">14</text>
+</g> <!-- transform -->
+</g> <!-- clip60 -->
+<defs>
+  <linearGradient id="gradient-72" x1="0" y1="270.90130615234375" x2="0" y2="551.3824462890625" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#455d1c" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#ffffff" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-72)">
+<g fill="url(#gradient-72)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 270.90131578947364 L 551.3824701885383 270.90131578947364 L 551.3824701885383 272 L 254.033203125 272 L 254.033203125 270.90131578947364 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-73" x1="0" y1="272" x2="0" y2="273" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#ffffff" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#455d1c" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-73)">
+<g fill="url(#gradient-73)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 272 L 551.3824701885383 272 L 551.3824701885383 273 L 254.033203125 273 L 254.033203125 272 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-74" x1="0" y1="273" x2="0" y2="279" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#455d1c" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#628428" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-74)">
+<g fill="url(#gradient-74)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 273 L 551.3824701885383 273 L 551.3824701885383 279 L 254.033203125 279 L 254.033203125 273 z"/>
+</g> <!-- drawing style -->
+<defs>
+  <linearGradient id="gradient-75" x1="0" y1="279" x2="0" y2="281" gradientUnits="userSpaceOnUse" spreadMethod="pad" >
+    <stop offset="0" stop-color="#628428" opacity-stop="1.0" />
+    <stop offset="1" stop-color="#455d1c" opacity-stop="1.0" />
+  </linearGradient>
+</defs>
+<g stroke="url(#gradient-75)">
+<g fill="url(#gradient-75)" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 254.033203125 279 L 551.3824701885383 279 L 551.3824701885383 280.99999999999994 L 254.033203125 280.99999999999994 L 254.033203125 279 z"/>
+</g> <!-- drawing style -->
+<g stroke-opacity="1" stroke-dasharray="0.5,0.5" stroke-width="0.5" fill="none" stroke="#808080" stroke-linecap="butt" stroke-miterlimit="1">
+  <path d="M 254.033203125 270.90131578947364 L 551.3824701885383 270.90131578947364 L 551.3824701885383 280.99999999999994 L 254.033203125 280.99999999999994 L 254.033203125 270.90131578947364 z"/>
+</g> <!-- drawing style -->
+<clipPath id="clip61">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip61)">
+<g transform="matrix(1, 0, 0, 1, 553.3824462890625, 279.7153015136719)">
+<text font-weight="normal" font-size="10" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">22</text>
+</g> <!-- transform -->
+</g> <!-- clip61 -->
+<clipPath id="clip62">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip62)">
+<g transform="matrix(1, 0, 0, 1, 756.214111328125, 49.97024154663086)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">*</text>
+</g> <!-- transform -->
+</g> <!-- clip62 -->
+<clipPath id="clip63">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip63)">
+<g transform="matrix(1, 0, 0, 1, 816.456298828125, 62.733856201171875)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">*</text>
+</g> <!-- transform -->
+</g> <!-- clip63 -->
+<clipPath id="clip64">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip64)">
+<g transform="matrix(1, 0, 0, 1, 957.0214233398438, 75.49746704101562)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">*</text>
+</g> <!-- transform -->
+</g> <!-- clip64 -->
+<clipPath id="clip65">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip65)">
+<g transform="matrix(1, 0, 0, 1, 816.456298828125, 88.2610855102539)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">*</text>
+</g> <!-- transform -->
+</g> <!-- clip65 -->
+<clipPath id="clip66">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip66)">
+<g transform="matrix(1, 0, 0, 1, 854.6719360351562, 101.02469635009766)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">**</text>
+</g> <!-- transform -->
+</g> <!-- clip66 -->
+<clipPath id="clip67">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip67)">
+<g transform="matrix(1, 0, 0, 1, 957.0214233398438, 113.78831481933594)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">*</text>
+</g> <!-- transform -->
+</g> <!-- clip67 -->
+<clipPath id="clip68">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip68)">
+<g transform="matrix(1, 0, 0, 1, 365.8597412109375, 126.55192565917969)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">*</text>
+</g> <!-- transform -->
+</g> <!-- clip68 -->
+<clipPath id="clip69">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip69)">
+<g transform="matrix(1, 0, 0, 1, 365.8918762207031, 139.31553649902344)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">*</text>
+</g> <!-- transform -->
+</g> <!-- clip69 -->
+<clipPath id="clip70">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip70)">
+<g transform="matrix(1, 0, 0, 1, 644.654541015625, 152.07916259765625)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">*</text>
+</g> <!-- transform -->
+</g> <!-- clip70 -->
+<clipPath id="clip71">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip71)">
+<g transform="matrix(1, 0, 0, 1, 605.608642578125, 164.8427734375)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">*</text>
+</g> <!-- transform -->
+</g> <!-- clip71 -->
+<clipPath id="clip72">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip72)">
+<g transform="matrix(1, 0, 0, 1, 957.0214233398438, 177.60638427734375)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">*</text>
+</g> <!-- transform -->
+</g> <!-- clip72 -->
+<clipPath id="clip73">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip73)">
+<g transform="matrix(1, 0, 0, 1, 473.828857421875, 190.37001037597656)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">*</text>
+</g> <!-- transform -->
+</g> <!-- clip73 -->
+<clipPath id="clip74">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip74)">
+<g transform="matrix(1, 0, 0, 1, 415.8457336425781, 203.1336212158203)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">*</text>
+</g> <!-- transform -->
+</g> <!-- clip74 -->
+<clipPath id="clip75">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip75)">
+<g transform="matrix(1, 0, 0, 1, 473.828857421875, 215.89723205566406)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">*</text>
+</g> <!-- transform -->
+</g> <!-- clip75 -->
+<clipPath id="clip76">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip76)">
+<g transform="matrix(1, 0, 0, 1, 603.662841796875, 228.6608428955078)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">**</text>
+</g> <!-- transform -->
+</g> <!-- clip76 -->
+<clipPath id="clip77">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip77)">
+<g transform="matrix(1, 0, 0, 1, 516.6156005859375, 241.42446899414062)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">**</text>
+</g> <!-- transform -->
+</g> <!-- clip77 -->
+<clipPath id="clip78">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip78)">
+<g transform="matrix(1, 0, 0, 1, 537.77294921875, 254.18807983398438)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">**</text>
+</g> <!-- transform -->
+</g> <!-- clip78 -->
+<clipPath id="clip79">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip79)">
+<g transform="matrix(1, 0, 0, 1, 645.8323974609375, 266.9516906738281)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">**</text>
+</g> <!-- transform -->
+</g> <!-- clip79 -->
+<clipPath id="clip80">
+  <path d="M 254.033203125 41.15625 L 254.033203125 281 L 992 281 L 992 41.15625 z"/>
+</clipPath>
+<g clip-path="url(#clip80)">
+<g transform="matrix(1, 0, 0, 1, 549.599365234375, 279.7153015136719)">
+<text font-weight="bold" font-size="10" font-family="Helvetica" font-style="normal" fill="#ff0000" fill-opacity="1" stroke="none" x="0" y="0">**</text>
+</g> <!-- transform -->
+</g> <!-- clip80 -->
+<g stroke-opacity="1" stroke-width="0.5" fill="none" stroke="#808080">
+  <path d="M 254.033203125 41.15625 L 992 41.15625 L 992 281 L 254.033203125 281 L 254.033203125 41.15625 z"/>
+</g> <!-- drawing style -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- color -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->

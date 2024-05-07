@@ -1,0 +1,7 @@
+Function	Groups	Group Genes
+NADH dehydrogenase (ubiquinone) activity	Group5	Rv0073|aceE|acn|ansP1|bfrB|ceoC|drrB|emrB|esxB|fum|gabD2|gap|glcB|glgP|gltA2|gnd2|icd1|lpqZ|mmpL10|mmpL7|mycP1|nuoA|nuoB|nuoC|nuoD|nuoF|nuoG|nuoH|nuoI|nuoJ|nuoL|nuoM|nuoN|pgk|phoT|pitA|proV|proW|proX|prpC|prpD|pstC2|pstS3|rpe|tpi|yrbE1A
+biological process involved in interaction with host	Group0	Rv0175|Rv0176|Rv0178|Rv1129c|Rv1544|atsB|fbpB|lipM|lipO|lprK|mce1B|mce1C|mce1D|mce1F|mmpL7|nuoG|nuoL|phoT|pknB|proV|proW|proX|pstC2|pstS3|sodC
+generation of precursor metabolites and energy	Group4	Rv1129c|aceE|acn|fum|gabD2|gap|glcB|glgP|gltA2|gnd2|icd1|nuoA|nuoB|nuoC|nuoD|nuoF|nuoG|nuoH|nuoI|nuoJ|nuoL|nuoM|nuoN|pgk|prpC|prpD|rpe|tpi
+organic cation transport	Group2	drrB|proV|proW|proX
+phosphate ion transport	Group1	phoT|pitA|pstC2|pstS3
+threonine biosynthetic process	Group3	asd|ask|dapD|thrC

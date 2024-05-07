@@ -1,0 +1,10 @@
+Function	Groups	Group Genes
+cytochrome complex assembly	Group0	Rv0526|Rv0528|Rv2877c|ccdA|ccsA
+generation of precursor metabolites and energy	Group8	aceE|acn|citA|dlaT|fba|fdxC|fum|gabD1|gabD2|gap|glcB|glgB|glgE|glgP|gltA2|gnd2|icd1|icd2|mdh|mqo|mutA|nuoA|nuoB|nuoC|nuoD|nuoF|nuoG|nuoH|nuoI|nuoJ|nuoL|nuoM|nuoN|pgi|pgk|prpC|prpD|pykA|rpe|sucC|tpi
+glycolytic process	Group7	Rv1211|Rv3220c|aceE|aldC|ask|coaA|dlaT|fba|gap|glgE|mtrA|mtrB|pgi|pgk|pknA|pknB|pknD|pknH|pknK|ppdK|ppnK|pstP|pykA|rpe|senX3|tpi
+glyoxylate cycle	Group1	aceAa|glcB|icd1|icd2
+organic acid metabolic process	Group5	Rv0818|Rv1129c|Rv1683|Rv1897c|Rv2499c|Rv3075c|accA1|aceAa|aceAb|aceE|acn|aldC|amiB1|argD|argF|asd|ask|citE|dapA|dapD|dlaT|echA6|etgB|fas|fba|folC|fum|gadB|gap|glcB|gnd2|guaA|hisC1|hisD|icd1|icd2|inhA|mdh|metA|metE|mmsB|mutA|mutB|nrp|pgi|pgk|pknA|pknB|pknD|pks9|ppdK|ppnK|prpC|prpD|pykA|pyrB|pyrG|serA1|sseB|thrA|thrC|tpi|trpA|trpB|trpC|trpG|trpS|valS
+oxaloacetate metabolic process	Group2	Rv3075c|citE|mdh
+propionate metabolic process	Group4	Rv1129c|acn|mutA|mutB|prpC|prpD
+regulation of binding	Group6	pknA|pknB|pknD|pknH|pstP
+threonine biosynthetic process	Group3	asd|ask|thrA|thrC
