@@ -1,0 +1,43 @@
+name: mtb-iron-deprivation
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base=4.3.0
+  - r-essentials
+  - r-tidyverse
+  - r-ggplot2
+  - r-dplyr
+  - r-tidyr
+  - r-stringr
+  - r-forcats
+  - r-readr
+  - r-readxl
+  - r-writexl
+  - r-edger
+  - r-limma
+  - bioconductor-deseq2
+  - bioconductor-limma
+  - bioconductor-edger
+  - r-pheatmap
+  - r-ggrepel
+  - r-cowplot
+  - r-gridextra
+  - r-scales
+  - r-viridis
+  - r-rmarkdown
+  - r-knitr
+  - r-data.table
+  - r-here
+  - r-fs
+  - r-glue
+  - r-magrittr
+  - git
+  - make
+  - pandoc
+pip:
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
