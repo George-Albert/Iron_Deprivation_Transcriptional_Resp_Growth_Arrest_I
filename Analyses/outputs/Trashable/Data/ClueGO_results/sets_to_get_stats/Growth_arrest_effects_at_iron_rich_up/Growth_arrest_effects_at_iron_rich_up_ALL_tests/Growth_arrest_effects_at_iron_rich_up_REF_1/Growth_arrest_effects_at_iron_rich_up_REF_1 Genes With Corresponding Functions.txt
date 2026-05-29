@@ -1,1 +1,0 @@
-NAME	ClusterOrigin	EntrezGeneID	Aliases	GeneType	Origin	Functions
