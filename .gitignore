@@ -1,0 +1,44 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# R session/workspace artifacts
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Package management and environments
+renv/library/
+renv/staging/
+renv/python/
+.Renviron
+.Rprofile
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Analysis outputs (keep structure, not generated files)
+results/figures/*
+!results/figures/.gitkeep
+results/tables/*
+!results/tables/.gitkeep
+results/logs/*
+!results/logs/.gitkeep
+
+# Large data files generated during analysis
+analysis/notebooks/*.html
+analysis/notebooks/*.nb.html
+
+# Python/Conda caches
+__pycache__/
+.ipynb_checkpoints/
+.conda/
+
+# IDE files
+.vscode/
+.idea/
