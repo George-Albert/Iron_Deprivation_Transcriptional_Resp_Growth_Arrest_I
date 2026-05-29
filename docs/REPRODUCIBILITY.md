@@ -4,7 +4,10 @@
 
 This document describes how to reproduce the analysis workflow associated with:
 
-Zavala-Urtecho et al. (2022), Frontiers in Microbiology, DOI: 10.3389/fmicb.2022.956602.
+**Zavala-Urtecho et al. (2022)**  
+*Iron deprivation enhances transcriptional responses to in vitro growth arrest of Mycobacterium tuberculosis.*  
+Frontiers in Microbiology, 13:956602  
+https://doi.org/10.3389/fmicb.2022.956602
 
 ## 1. Environment setup
 

@@ -1,6 +1,6 @@
 # Iron Deprivation Transcriptional Responses and Growth Arrest in *Mycobacterium tuberculosis*
 
-[![DOI](https://img.shields.io/badge/DOI-10.3389%2Ffmicb.2022.956602-blue)](https://doi.org/10.3389/fmicb.2022.956602)
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fmicb.2022.956602-blue)](https://doi.org/10.3389/fmicb.2022.956602)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This repository contains analysis code, input data references, and manuscript assets for the publication:
