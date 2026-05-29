@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this research or code, please cite the published paper as below."
+authors:
+  - family-names: "Alebouyeh"
+    given-names: "S"
+  - family-names: "Cárdenas-Pestana"
+    given-names: "JA"
+  - family-names: "Vazquez"
+    given-names: "L"
+  - family-names: "Prados-Rosales"
+    given-names: "R"
+  - family-names: "Del Portillo"
+    given-names: "P"
+  - family-names: "Sanz"
+    given-names: "J"
+  - family-names: "Menéndez"
+    given-names: "MC"
+  - family-names: "García"
+    given-names: "MJ"
+title: "Iron deprivation enhances transcriptional responses to in vitro growth arrest of Mycobacterium tuberculosis"
+journal: "Frontiers in Microbiology"
+year: 2022
+volume: 13
+article: 956602
+doi: "10.3389/fmicb.2022.956602"
+url: "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.956602/full"
