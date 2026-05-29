@@ -1,0 +1,54 @@
+# macOS artifacts
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# R session files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+Thumbs.db
+.project
+.pydevproject
+
+# Analysis outputs (can be regenerated)
+results/
+*.log
+*.o
+*.swp
+
+# Data handling
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.#*
+
+# Large files
+*.tar.gz
+*.zip
